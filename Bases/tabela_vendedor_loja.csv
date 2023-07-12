@@ -1,0 +1,113 @@
+﻿id_vendedor_loja;nm_vendedor;nm_loja;cidade_loja;estado_loja;uf_loja;regiao_loja
+1;Gustavo Henrique Fogaça;Aracai;Guarulhos;São Paulo;SP;Sudeste
+2;Pedro Henrique Ferreira;Aracai;Guarulhos;São Paulo;SP;Sudeste
+3;Isabella Ribeiro;Aracai;Guarulhos;São Paulo;SP;Sudeste
+4;Marcela Rocha;Aracai;Guarulhos;São Paulo;SP;Sudeste
+5;Bruno Cunha;Armando Veículos;São Paulo;São Paulo;SP;Sudeste
+6;Bianca Fernandes;Armando Veículos;São Paulo;São Paulo;SP;Sudeste
+7;Lívia Sales;Armando Veículos;São Paulo;São Paulo;SP;Sudeste
+8;Olivia da Rosa;Armando Veículos;São Paulo;São Paulo;SP;Sudeste
+9;Ana Clara Rezende;AutoStar;São Paulo;São Paulo;SP;Sudeste
+10;Isabelly Moraes;AutoStar;São Paulo;São Paulo;SP;Sudeste
+11;Anthony Rocha;AutoStar;São Paulo;São Paulo;SP;Sudeste
+12;Nathan da Cunha;AutoStar;São Paulo;São Paulo;SP;Sudeste
+13;Renan Martins;Audi Center Alphaville;Barueri;São Paulo;SP;Sudeste
+14;Davi Lucas Lopes;Audi Center Alphaville;Barueri;São Paulo;SP;Sudeste
+15;Elisa da Cruz;Audi Center Alphaville;Barueri;São Paulo;SP;Sudeste
+16;Alana Fernandes;Audi Center Alphaville;Barueri;São Paulo;SP;Sudeste
+17;Yasmin Peixoto;Auto Shopping Cristal;São Paulo;São Paulo;SP;Sudeste
+18;Diego Monteiro;Auto Shopping Cristal;São Paulo;São Paulo;SP;Sudeste
+19;Luna da Mota;Auto Shopping Cristal;São Paulo;São Paulo;SP;Sudeste
+20;Isaac Nascimento;Auto Shopping Cristal;São Paulo;São Paulo;SP;Sudeste
+21;Emanuelly da Luz;Viamar;São Paulo;São Paulo;SP;Sudeste
+22;Davi Lucas Moura;Viamar;São Paulo;São Paulo;SP;Sudeste
+23;Isis Cavalcanti;Viamar;São Paulo;São Paulo;SP;Sudeste
+24;Breno Sales;Viamar;São Paulo;São Paulo;SP;Sudeste
+25;Sarah Gonçalves;Mercadocar;São Paulo;São Paulo;SP;Sudeste
+26;João Miguel Correia;Mercadocar;São Paulo;São Paulo;SP;Sudeste
+27;João Pedro Viana;Mercadocar;São Paulo;São Paulo;SP;Sudeste
+28;Nicolas Cardoso;Mercadocar;São Paulo;São Paulo;SP;Sudeste
+29;Carolina da Cunha;Caraigá;São Paulo;São Paulo;SP;Sudeste
+30;Gabriel Martins;Caraigá;São Paulo;São Paulo;SP;Sudeste
+31;Samuel Moreira;Caraigá;São Paulo;São Paulo;SP;Sudeste
+32;Beatriz Dias;Caraigá;São Paulo;São Paulo;SP;Sudeste
+33;Catarina Carvalho;Robmar Automóveis;Rio de Janeiro;Rio de Janeiro;RJ;Sudeste
+34;Marcela Peixoto;Robmar Automóveis;Rio de Janeiro;Rio de Janeiro;RJ;Sudeste
+35;Ana Pereira;Robmar Automóveis;Rio de Janeiro;Rio de Janeiro;RJ;Sudeste
+36;Fernanda Viana;Robmar Automóveis;Rio de Janeiro;Rio de Janeiro;RJ;Sudeste
+37;Bianca Nascimento;Eurobarra;Rio de Janeiro;Rio de Janeiro;RJ;Sudeste
+38;Clara Cavalcanti;Eurobarra;Rio de Janeiro;Rio de Janeiro;RJ;Sudeste
+39;Clarice Barbosa;Eurobarra;Rio de Janeiro;Rio de Janeiro;RJ;Sudeste
+40;Lucas Gabriel da Rosa;Eurobarra;Rio de Janeiro;Rio de Janeiro;RJ;Sudeste
+41;Cecília da Cruz;Jedean Multimarcas;Rio de Janeiro;Rio de Janeiro;RJ;Sudeste
+42;Mirella Campos;Jedean Multimarcas;Rio de Janeiro;Rio de Janeiro;RJ;Sudeste
+43;Fernando da Conceição;Jedean Multimarcas;Rio de Janeiro;Rio de Janeiro;RJ;Sudeste
+44;João Vitor da Mota;Jedean Multimarcas;Rio de Janeiro;Rio de Janeiro;RJ;Sudeste
+45;Maria Cecília Silva;Simcauto;Rio de Janeiro;Rio de Janeiro;RJ;Sudeste
+46;Kaique Vieira;Simcauto;Rio de Janeiro;Rio de Janeiro;RJ;Sudeste
+47;Ana Clara da Cunha;Simcauto;Rio de Janeiro;Rio de Janeiro;RJ;Sudeste
+48;Luiz Fernando Dias;Simcauto;Rio de Janeiro;Rio de Janeiro;RJ;Sudeste
+49;Luiza Moraes;AB Intercar;Botafogo;Rio de Janeiro;RJ;Sudeste
+50;João Miguel da Cruz;AB Intercar;Botafogo;Rio de Janeiro;RJ;Sudeste
+51;Augusto Freitas;AB Intercar;Botafogo;Rio de Janeiro;RJ;Sudeste
+52;Melissa Gomes;AB Intercar;Botafogo;Rio de Janeiro;RJ;Sudeste
+53;Agatha da Rosa;Recreio;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Sudeste
+54;Luiz Fernando Rezende;Recreio;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Sudeste
+55;Emanuelly Gonçalves;Recreio;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Sudeste
+56;Bruno Nascimento;Recreio;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Sudeste
+57;Lucas Gabriel Moraes;Metrosul;Curitiba;Paraná;PR;Sul
+58;Maria Cecília Martins;Metrosul;Curitiba;Paraná;PR;Sul
+59;Pedro Moraes;Metrosul;Curitiba;Paraná;PR;Sul
+60;Rafael Farias;Metrosul;Curitiba;Paraná;PR;Sul
+61;Luiz Henrique Rodrigues;Barigui Seminovos;Curitiba;Paraná;PR;Sul
+62;Rodrigo da Paz;Barigui Seminovos;Curitiba;Paraná;PR;Sul
+63;Vitor Gabriel Ribeiro;Barigui Seminovos;Curitiba;Paraná;PR;Sul
+64;Yago Barbosa;Barigui Seminovos;Curitiba;Paraná;PR;Sul
+65;Ana Sophia Silva;CCV;Curitiba;Paraná;PR;Sul
+66;Vitória Novaes;CCV;Curitiba;Paraná;PR;Sul
+67;Vitor Hugo Fernandes;CCV;Curitiba;Paraná;PR;Sul
+68;Davi Lucas Melo;CCV;Curitiba;Paraná;PR;Sul
+69;Júlia Fernandes;Valesul;São José dos Pinhais;Paraná;PR;Sul
+70;Arthur Almeida;Valesul;São José dos Pinhais;Paraná;PR;Sul
+71;Juan da Cunha;Valesul;São José dos Pinhais;Paraná;PR;Sul
+72;Pedro Caldeira;Valesul;São José dos Pinhais;Paraná;PR;Sul
+73;Diogo Nascimento;7place;Curitiba;Paraná;PR;Sul
+74;Cauê Araújo;7place;Curitiba;Paraná;PR;Sul
+75;Maria Sophia Martins;7place;Curitiba;Paraná;PR;Sul
+76;Ana Luiza Melo;7place;Curitiba;Paraná;PR;Sul
+77;Heloísa Aragão;Catarina Carros;Blumenau;Santa Catarina;SC;Sul
+78;Arthur Duarte;Catarina Carros;Blumenau;Santa Catarina;SC;Sul
+79;Samuel Pinto;Catarina Carros;Blumenau;Santa Catarina;SC;Sul
+80;Bryan Ferreira;Catarina Carros;Blumenau;Santa Catarina;SC;Sul
+81;Pedro Henrique Azevedo;Santa Catarina Automóveis;Joinville;Santa Catarina;SC;Sul
+82;Marcelo da Cruz;Santa Catarina Automóveis;Joinville;Santa Catarina;SC;Sul
+83;Leandro Silva;Santa Catarina Automóveis;Joinville;Santa Catarina;SC;Sul
+84;Calebe Freitas;Santa Catarina Automóveis;Joinville;Santa Catarina;SC;Sul
+85;Marcos Vinicius da Mata;Santa Catarina Multimarcas;Barra Velha;Santa Catarina;SC;Sul
+86;Ian Cardoso;Santa Catarina Multimarcas;Barra Velha;Santa Catarina;SC;Sul
+87;Bianca Castro;Santa Catarina Multimarcas;Barra Velha;Santa Catarina;SC;Sul
+88;Francisco Souza;Santa Catarina Multimarcas;Barra Velha;Santa Catarina;SC;Sul
+89;Joaquim Cavalcanti;LitoralCar;Brusque ;Santa Catarina;SC;Sul
+90;Maria Fernanda das Neves;LitoralCar;Brusque ;Santa Catarina;SC;Sul
+91;Diego da Cruz;LitoralCar;Brusque ;Santa Catarina;SC;Sul
+92;Anthony Farias;LitoralCar;Brusque ;Santa Catarina;SC;Sul
+93;Giovanna Cardoso;Teca Automóveis;Campo Grande;Mato Grosso do Sul;MS;Centro-Oeste
+94;Guilherme Vieira;Teca Automóveis;Campo Grande;Mato Grosso do Sul;MS;Centro-Oeste
+95;Augusto Campos;Teca Automóveis;Campo Grande;Mato Grosso do Sul;MS;Centro-Oeste
+96;Murilo da Mata;Teca Automóveis;Campo Grande;Mato Grosso do Sul;MS;Centro-Oeste
+97;Noah Rezende;Dot Com Veículos;Campo Grande;Mato Grosso do Sul;MS;Centro-Oeste
+98;Enzo da Costa;Dot Com Veículos;Campo Grande;Mato Grosso do Sul;MS;Centro-Oeste
+99;Heloísa Correia;Dot Com Veículos;Campo Grande;Mato Grosso do Sul;MS;Centro-Oeste
+100;Evelyn Carvalho;Dot Com Veículos;Campo Grande;Mato Grosso do Sul;MS;Centro-Oeste
+101;Yago Rezende;Perkal;Campo Grande;Mato Grosso do Sul;MS;Centro-Oeste
+102;Breno das Neves;Perkal;Campo Grande;Mato Grosso do Sul;MS;Centro-Oeste
+103;Luigi Gomes;Perkal;Campo Grande;Mato Grosso do Sul;MS;Centro-Oeste
+104;Alana Pinto;Perkal;Campo Grande;Mato Grosso do Sul;MS;Centro-Oeste
+105;João Lucas Almeida;Rudinei Veículos;Dourados;Mato Grosso do Sul;MS;Centro-Oeste
+106;Lívia Nogueira;Rudinei Veículos;Dourados;Mato Grosso do Sul;MS;Centro-Oeste
+107;Marcos Vinicius Moraes;Rudinei Veículos;Dourados;Mato Grosso do Sul;MS;Centro-Oeste
+108;Ian da Cunha;Rudinei Veículos;Dourados;Mato Grosso do Sul;MS;Centro-Oeste
+109;Enrico Silveira;Ipiranga Automóveis;Dourados;Mato Grosso do Sul;MS;Centro-Oeste
+110;Alice Souza;Ipiranga Automóveis;Dourados;Mato Grosso do Sul;MS;Centro-Oeste
+111;Lorenzo Dias;Ipiranga Automóveis;Dourados;Mato Grosso do Sul;MS;Centro-Oeste
+112;Matheus da Rocha;Ipiranga Automóveis;Dourados;Mato Grosso do Sul;MS;Centro-Oeste

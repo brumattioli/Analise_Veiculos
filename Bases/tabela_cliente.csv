@@ -1,0 +1,1651 @@
+﻿id_cliente;cidade_cliente;estado_cliente;uf_cliente;ocupacao;faixa_idade
+1;Itapecerica da Serra;São Paulo;SP;Aposentado;10. Acima de 65 anos
+2;Santo André;São Paulo;SP;Assalariado;01. 18 a 24 anos
+3;Mairiporã;São Paulo;SP;Assalariado;01. 18 a 24 anos
+4;Itapecerica da Serra;São Paulo;SP;Assalariado;01. 18 a 24 anos
+5;Barueri;São Paulo;SP;Funcionário Público;05. 41 a 45 anos
+6;Cotia;São Paulo;SP;Aposentado;10. Acima de 65 anos
+7;Diadema;São Paulo;SP;Militar;05. 41 a 45 anos
+8;Cotia;São Paulo;SP;Militar;01. 18 a 24 anos
+9;Taboão da Serra;São Paulo;SP;Autonômo;01. 18 a 24 anos
+10;Mairiporã;São Paulo;SP;Assalariado;01. 18 a 24 anos
+11;Taboão da Serra;São Paulo;SP;Aposentado;10. Acima de 65 anos
+12;São Caetano do Sul;São Paulo;SP;Militar;04. 36 a 40 anos
+13;Guarulhos;São Paulo;SP;Profissional Liberal;01. 18 a 24 anos
+14;São Bernardo do Campo;São Paulo;SP;Assalariado;04. 36 a 40 anos
+15;Jandira;São Paulo;SP;Empresário;01. 18 a 24 anos
+16;Santo André;São Paulo;SP;Assalariado;08. 56 a 60 anos
+17;São Caetano do Sul;São Paulo;SP;Assalariado;02. 26 a 30 anos
+18;Diadema;São Paulo;SP;Funcionário Público;03. 31 a 35 anos
+19;Santo André;São Paulo;SP;Aposentado;10. Acima de 65 anos
+20;Mairiporã;São Paulo;SP;Aposentado;10. Acima de 65 anos
+21;São Caetano do Sul;São Paulo;SP;Militar;09. 61 a 65 anos
+22;São Bernardo do Campo;São Paulo;SP;Funcionário Público;01. 18 a 24 anos
+23;Diadema;São Paulo;SP;Aposentado;10. Acima de 65 anos
+24;Cotia;São Paulo;SP;Profissional Liberal;09. 61 a 65 anos
+25;Cotia;São Paulo;SP;Funcionário Público;05. 41 a 45 anos
+26;Mairiporã;São Paulo;SP;Autonômo;04. 36 a 40 anos
+27;Itapecerica da Serra;São Paulo;SP;Militar;06. 46 a 50 anos
+28;Mairiporã;São Paulo;SP;Assalariado;04. 36 a 40 anos
+29;Carapicuíba;São Paulo;SP;Militar;08. 56 a 60 anos
+30;Mairiporã;São Paulo;SP;Assalariado;05. 41 a 45 anos
+31;Osasco;São Paulo;SP;Autonômo;03. 31 a 35 anos
+32;Carapicuíba;São Paulo;SP;Autonômo;01. 18 a 24 anos
+33;Itapecerica da Serra;São Paulo;SP;Autonômo;02. 26 a 30 anos
+34;Itapevi;São Paulo;SP;Assalariado;02. 26 a 30 anos
+35;Itapevi;São Paulo;SP;Empresário;02. 26 a 30 anos
+36;São Bernardo do Campo;São Paulo;SP;Empresário;04. 36 a 40 anos
+37;Itapevi;São Paulo;SP;Profissional Liberal;05. 41 a 45 anos
+38;Carapicuíba;São Paulo;SP;Profissional Liberal;01. 18 a 24 anos
+39;Diadema;São Paulo;SP;Militar;09. 61 a 65 anos
+40;Cotia;São Paulo;SP;Profissional Liberal;07. 51 a 55 anos
+41;Cotia;São Paulo;SP;Assalariado;02. 26 a 30 anos
+42;Carapicuíba;São Paulo;SP;Autonômo;02. 26 a 30 anos
+43;Guarulhos;São Paulo;SP;Aposentado;10. Acima de 65 anos
+44;Carapicuíba;São Paulo;SP;Empresário;09. 61 a 65 anos
+45;Mairiporã;São Paulo;SP;Militar;02. 26 a 30 anos
+46;São Caetano do Sul;São Paulo;SP;Militar;04. 36 a 40 anos
+47;São Caetano do Sul;São Paulo;SP;Autonômo;01. 18 a 24 anos
+48;Itapevi;São Paulo;SP;Autonômo;09. 61 a 65 anos
+49;Barueri;São Paulo;SP;Empresário;04. 36 a 40 anos
+50;Barueri;São Paulo;SP;Autonômo;08. 56 a 60 anos
+51;Mairiporã;São Paulo;SP;Autonômo;02. 26 a 30 anos
+52;São Caetano do Sul;São Paulo;SP;Autonômo;08. 56 a 60 anos
+53;Diadema;São Paulo;SP;Empresário;04. 36 a 40 anos
+54;Mairiporã;São Paulo;SP;Funcionário Público;04. 36 a 40 anos
+55;Cotia;São Paulo;SP;Assalariado;01. 18 a 24 anos
+56;São Caetano do Sul;São Paulo;SP;Militar;04. 36 a 40 anos
+57;São Bernardo do Campo;São Paulo;SP;Empresário;09. 61 a 65 anos
+58;São Bernardo do Campo;São Paulo;SP;Autonômo;08. 56 a 60 anos
+59;Carapicuíba;São Paulo;SP;Funcionário Público;03. 31 a 35 anos
+60;São Paulo;São Paulo;SP;Militar;06. 46 a 50 anos
+61;Carapicuíba;São Paulo;SP;Autonômo;01. 18 a 24 anos
+62;Jandira;São Paulo;SP;Autonômo;04. 36 a 40 anos
+63;Santo André;São Paulo;SP;Assalariado;04. 36 a 40 anos
+64;Osasco;São Paulo;SP;Aposentado;10. Acima de 65 anos
+65;São Caetano do Sul;São Paulo;SP;Profissional Liberal;05. 41 a 45 anos
+66;Cotia;São Paulo;SP;Funcionário Público;08. 56 a 60 anos
+67;Santo André;São Paulo;SP;Empresário;04. 36 a 40 anos
+68;Guarulhos;São Paulo;SP;Funcionário Público;05. 41 a 45 anos
+69;Guarulhos;São Paulo;SP;Aposentado;10. Acima de 65 anos
+70;Itapecerica da Serra;São Paulo;SP;Militar;05. 41 a 45 anos
+71;São Bernardo do Campo;São Paulo;SP;Assalariado;09. 61 a 65 anos
+72;São Paulo;São Paulo;SP;Aposentado;10. Acima de 65 anos
+73;Taboão da Serra;São Paulo;SP;Profissional Liberal;01. 18 a 24 anos
+74;São Paulo;São Paulo;SP;Profissional Liberal;04. 36 a 40 anos
+75;Jandira;São Paulo;SP;Empresário;01. 18 a 24 anos
+76;São Bernardo do Campo;São Paulo;SP;Profissional Liberal;02. 26 a 30 anos
+77;Osasco;São Paulo;SP;Autonômo;06. 46 a 50 anos
+78;São Bernardo do Campo;São Paulo;SP;Empresário;03. 31 a 35 anos
+79;Taboão da Serra;São Paulo;SP;Aposentado;10. Acima de 65 anos
+80;Osasco;São Paulo;SP;Profissional Liberal;04. 36 a 40 anos
+81;Carapicuíba;São Paulo;SP;Assalariado;05. 41 a 45 anos
+82;São Caetano do Sul;São Paulo;SP;Empresário;08. 56 a 60 anos
+83;Taboão da Serra;São Paulo;SP;Autonômo;05. 41 a 45 anos
+84;Mairiporã;São Paulo;SP;Militar;05. 41 a 45 anos
+85;Taboão da Serra;São Paulo;SP;Assalariado;08. 56 a 60 anos
+86;Jandira;São Paulo;SP;Autonômo;09. 61 a 65 anos
+87;Taboão da Serra;São Paulo;SP;Assalariado;09. 61 a 65 anos
+88;Guarulhos;São Paulo;SP;Autonômo;02. 26 a 30 anos
+89;Taboão da Serra;São Paulo;SP;Autonômo;02. 26 a 30 anos
+90;Itapecerica da Serra;São Paulo;SP;Assalariado;03. 31 a 35 anos
+91;Jandira;São Paulo;SP;Autonômo;06. 46 a 50 anos
+92;Taboão da Serra;São Paulo;SP;Militar;08. 56 a 60 anos
+93;Barueri;São Paulo;SP;Autonômo;02. 26 a 30 anos
+94;Guarulhos;São Paulo;SP;Aposentado;10. Acima de 65 anos
+95;Osasco;São Paulo;SP;Empresário;05. 41 a 45 anos
+96;Itapecerica da Serra;São Paulo;SP;Assalariado;04. 36 a 40 anos
+97;Guarulhos;São Paulo;SP;Assalariado;06. 46 a 50 anos
+98;São Bernardo do Campo;São Paulo;SP;Assalariado;05. 41 a 45 anos
+99;Cotia;São Paulo;SP;Assalariado;02. 26 a 30 anos
+100;Jandira;São Paulo;SP;Profissional Liberal;03. 31 a 35 anos
+101;Santo André;São Paulo;SP;Assalariado;02. 26 a 30 anos
+102;Mairiporã;São Paulo;SP;Assalariado;06. 46 a 50 anos
+103;Itapevi;São Paulo;SP;Funcionário Público;03. 31 a 35 anos
+104;Carapicuíba;São Paulo;SP;Profissional Liberal;02. 26 a 30 anos
+105;Jandira;São Paulo;SP;Empresário;08. 56 a 60 anos
+106;Taboão da Serra;São Paulo;SP;Empresário;03. 31 a 35 anos
+107;Diadema;São Paulo;SP;Militar;04. 36 a 40 anos
+108;Osasco;São Paulo;SP;Aposentado;10. Acima de 65 anos
+109;Jandira;São Paulo;SP;Empresário;03. 31 a 35 anos
+110;Itapevi;São Paulo;SP;Assalariado;08. 56 a 60 anos
+111;São Paulo;São Paulo;SP;Assalariado;07. 51 a 55 anos
+112;Mairiporã;São Paulo;SP;Profissional Liberal;09. 61 a 65 anos
+113;Cotia;São Paulo;SP;Assalariado;03. 31 a 35 anos
+114;Itapecerica da Serra;São Paulo;SP;Autonômo;05. 41 a 45 anos
+115;Itapecerica da Serra;São Paulo;SP;Funcionário Público;09. 61 a 65 anos
+116;Itapecerica da Serra;São Paulo;SP;Aposentado;10. Acima de 65 anos
+117;Osasco;São Paulo;SP;Militar;05. 41 a 45 anos
+118;Itapecerica da Serra;São Paulo;SP;Funcionário Público;09. 61 a 65 anos
+119;São Caetano do Sul;São Paulo;SP;Empresário;06. 46 a 50 anos
+120;São Caetano do Sul;São Paulo;SP;Assalariado;09. 61 a 65 anos
+121;Barueri;São Paulo;SP;Militar;04. 36 a 40 anos
+122;Taboão da Serra;São Paulo;SP;Funcionário Público;06. 46 a 50 anos
+123;Santo André;São Paulo;SP;Assalariado;02. 26 a 30 anos
+124;Jandira;São Paulo;SP;Profissional Liberal;06. 46 a 50 anos
+125;Osasco;São Paulo;SP;Empresário;05. 41 a 45 anos
+126;Itapevi;São Paulo;SP;Militar;07. 51 a 55 anos
+127;Cotia;São Paulo;SP;Empresário;01. 18 a 24 anos
+128;Jandira;São Paulo;SP;Autonômo;04. 36 a 40 anos
+129;Guarulhos;São Paulo;SP;Autonômo;03. 31 a 35 anos
+130;Taboão da Serra;São Paulo;SP;Assalariado;03. 31 a 35 anos
+131;Diadema;São Paulo;SP;Assalariado;06. 46 a 50 anos
+132;Taboão da Serra;São Paulo;SP;Militar;05. 41 a 45 anos
+133;Mairiporã;São Paulo;SP;Assalariado;07. 51 a 55 anos
+134;São Caetano do Sul;São Paulo;SP;Autonômo;07. 51 a 55 anos
+135;São Bernardo do Campo;São Paulo;SP;Profissional Liberal;07. 51 a 55 anos
+136;São Paulo;São Paulo;SP;Assalariado;05. 41 a 45 anos
+137;Santo André;São Paulo;SP;Assalariado;05. 41 a 45 anos
+138;Jandira;São Paulo;SP;Funcionário Público;03. 31 a 35 anos
+139;Carapicuíba;São Paulo;SP;Assalariado;05. 41 a 45 anos
+140;São Bernardo do Campo;São Paulo;SP;Assalariado;05. 41 a 45 anos
+141;Diadema;São Paulo;SP;Assalariado;02. 26 a 30 anos
+142;Osasco;São Paulo;SP;Profissional Liberal;05. 41 a 45 anos
+143;Osasco;São Paulo;SP;Funcionário Público;04. 36 a 40 anos
+144;Itapevi;São Paulo;SP;Aposentado;10. Acima de 65 anos
+145;Itapecerica da Serra;São Paulo;SP;Empresário;08. 56 a 60 anos
+146;Itapecerica da Serra;São Paulo;SP;Funcionário Público;03. 31 a 35 anos
+147;Taboão da Serra;São Paulo;SP;Assalariado;09. 61 a 65 anos
+148;Taboão da Serra;São Paulo;SP;Empresário;01. 18 a 24 anos
+149;Mairiporã;São Paulo;SP;Empresário;07. 51 a 55 anos
+150;Itapecerica da Serra;São Paulo;SP;Assalariado;04. 36 a 40 anos
+151;Barueri;São Paulo;SP;Autonômo;02. 26 a 30 anos
+152;Santo André;São Paulo;SP;Funcionário Público;04. 36 a 40 anos
+153;Jandira;São Paulo;SP;Profissional Liberal;05. 41 a 45 anos
+154;Barueri;São Paulo;SP;Empresário;06. 46 a 50 anos
+155;Barueri;São Paulo;SP;Empresário;05. 41 a 45 anos
+156;Carapicuíba;São Paulo;SP;Aposentado;10. Acima de 65 anos
+157;Itapecerica da Serra;São Paulo;SP;Empresário;09. 61 a 65 anos
+158;Itapevi;São Paulo;SP;Empresário;01. 18 a 24 anos
+159;Cotia;São Paulo;SP;Profissional Liberal;01. 18 a 24 anos
+160;São Bernardo do Campo;São Paulo;SP;Profissional Liberal;07. 51 a 55 anos
+161;Taboão da Serra;São Paulo;SP;Autonômo;05. 41 a 45 anos
+162;Carapicuíba;São Paulo;SP;Empresário;06. 46 a 50 anos
+163;Cotia;São Paulo;SP;Profissional Liberal;05. 41 a 45 anos
+164;Barueri;São Paulo;SP;Profissional Liberal;04. 36 a 40 anos
+165;Mairiporã;São Paulo;SP;Militar;04. 36 a 40 anos
+166;Osasco;São Paulo;SP;Funcionário Público;07. 51 a 55 anos
+167;Taboão da Serra;São Paulo;SP;Assalariado;05. 41 a 45 anos
+168;Carapicuíba;São Paulo;SP;Funcionário Público;09. 61 a 65 anos
+169;Santo André;São Paulo;SP;Militar;05. 41 a 45 anos
+170;Taboão da Serra;São Paulo;SP;Autonômo;09. 61 a 65 anos
+171;Mairiporã;São Paulo;SP;Profissional Liberal;05. 41 a 45 anos
+172;Guarulhos;São Paulo;SP;Aposentado;10. Acima de 65 anos
+173;Mairiporã;São Paulo;SP;Funcionário Público;06. 46 a 50 anos
+174;Itapevi;São Paulo;SP;Assalariado;09. 61 a 65 anos
+175;Taboão da Serra;São Paulo;SP;Aposentado;10. Acima de 65 anos
+176;Osasco;São Paulo;SP;Funcionário Público;02. 26 a 30 anos
+177;Osasco;São Paulo;SP;Profissional Liberal;03. 31 a 35 anos
+178;Jandira;São Paulo;SP;Autonômo;01. 18 a 24 anos
+179;São Paulo;São Paulo;SP;Assalariado;09. 61 a 65 anos
+180;Barueri;São Paulo;SP;Assalariado;05. 41 a 45 anos
+181;Itapevi;São Paulo;SP;Autonômo;05. 41 a 45 anos
+182;Carapicuíba;São Paulo;SP;Autonômo;07. 51 a 55 anos
+183;São Bernardo do Campo;São Paulo;SP;Funcionário Público;02. 26 a 30 anos
+184;Itapecerica da Serra;São Paulo;SP;Profissional Liberal;06. 46 a 50 anos
+185;Diadema;São Paulo;SP;Funcionário Público;01. 18 a 24 anos
+186;Cotia;São Paulo;SP;Autonômo;07. 51 a 55 anos
+187;Santo André;São Paulo;SP;Funcionário Público;07. 51 a 55 anos
+188;São Bernardo do Campo;São Paulo;SP;Empresário;07. 51 a 55 anos
+189;São Caetano do Sul;São Paulo;SP;Empresário;04. 36 a 40 anos
+190;Carapicuíba;São Paulo;SP;Aposentado;10. Acima de 65 anos
+191;Mairiporã;São Paulo;SP;Profissional Liberal;03. 31 a 35 anos
+192;Cotia;São Paulo;SP;Autonômo;05. 41 a 45 anos
+193;Osasco;São Paulo;SP;Assalariado;03. 31 a 35 anos
+194;São Paulo;São Paulo;SP;Funcionário Público;06. 46 a 50 anos
+195;Itapecerica da Serra;São Paulo;SP;Autonômo;06. 46 a 50 anos
+196;Osasco;São Paulo;SP;Empresário;03. 31 a 35 anos
+197;São Paulo;São Paulo;SP;Assalariado;02. 26 a 30 anos
+198;Itapecerica da Serra;São Paulo;SP;Autonômo;06. 46 a 50 anos
+199;São Bernardo do Campo;São Paulo;SP;Assalariado;03. 31 a 35 anos
+200;São Paulo;São Paulo;SP;Assalariado;08. 56 a 60 anos
+201;São Paulo;São Paulo;SP;Assalariado;04. 36 a 40 anos
+202;São Paulo;São Paulo;SP;Autonômo;05. 41 a 45 anos
+203;São Paulo;São Paulo;SP;Assalariado;05. 41 a 45 anos
+204;São Paulo;São Paulo;SP;Aposentado;10. Acima de 65 anos
+205;São Paulo;São Paulo;SP;Militar;07. 51 a 55 anos
+206;São Paulo;São Paulo;SP;Aposentado;10. Acima de 65 anos
+207;São Paulo;São Paulo;SP;Assalariado;07. 51 a 55 anos
+208;São Paulo;São Paulo;SP;Aposentado;10. Acima de 65 anos
+209;São Paulo;São Paulo;SP;Militar;06. 46 a 50 anos
+210;São Paulo;São Paulo;SP;Autonômo;04. 36 a 40 anos
+211;São Paulo;São Paulo;SP;Assalariado;04. 36 a 40 anos
+212;São Paulo;São Paulo;SP;Militar;07. 51 a 55 anos
+213;São Paulo;São Paulo;SP;Empresário;05. 41 a 45 anos
+214;São Paulo;São Paulo;SP;Assalariado;03. 31 a 35 anos
+215;São Paulo;São Paulo;SP;Militar;04. 36 a 40 anos
+216;São Paulo;São Paulo;SP;Assalariado;02. 26 a 30 anos
+217;São Paulo;São Paulo;SP;Assalariado;03. 31 a 35 anos
+218;São Paulo;São Paulo;SP;Funcionário Público;07. 51 a 55 anos
+219;São Paulo;São Paulo;SP;Aposentado;10. Acima de 65 anos
+220;São Paulo;São Paulo;SP;Funcionário Público;09. 61 a 65 anos
+221;São Paulo;São Paulo;SP;Funcionário Público;07. 51 a 55 anos
+222;São Paulo;São Paulo;SP;Militar;06. 46 a 50 anos
+223;São Paulo;São Paulo;SP;Empresário;02. 26 a 30 anos
+224;São Paulo;São Paulo;SP;Assalariado;02. 26 a 30 anos
+225;São Paulo;São Paulo;SP;Aposentado;10. Acima de 65 anos
+226;São Paulo;São Paulo;SP;Funcionário Público;09. 61 a 65 anos
+227;São Paulo;São Paulo;SP;Militar;09. 61 a 65 anos
+228;São Paulo;São Paulo;SP;Assalariado;07. 51 a 55 anos
+229;São Paulo;São Paulo;SP;Funcionário Público;01. 18 a 24 anos
+230;São Paulo;São Paulo;SP;Empresário;02. 26 a 30 anos
+231;São Paulo;São Paulo;SP;Funcionário Público;03. 31 a 35 anos
+232;São Paulo;São Paulo;SP;Autonômo;02. 26 a 30 anos
+233;São Paulo;São Paulo;SP;Autonômo;07. 51 a 55 anos
+234;São Paulo;São Paulo;SP;Assalariado;01. 18 a 24 anos
+235;São Paulo;São Paulo;SP;Assalariado;06. 46 a 50 anos
+236;São Paulo;São Paulo;SP;Funcionário Público;01. 18 a 24 anos
+237;São Paulo;São Paulo;SP;Profissional Liberal;03. 31 a 35 anos
+238;São Paulo;São Paulo;SP;Empresário;03. 31 a 35 anos
+239;São Paulo;São Paulo;SP;Empresário;01. 18 a 24 anos
+240;São Paulo;São Paulo;SP;Aposentado;10. Acima de 65 anos
+241;São Paulo;São Paulo;SP;Militar;09. 61 a 65 anos
+242;São Paulo;São Paulo;SP;Assalariado;04. 36 a 40 anos
+243;São Paulo;São Paulo;SP;Assalariado;03. 31 a 35 anos
+244;São Paulo;São Paulo;SP;Autonômo;06. 46 a 50 anos
+245;São Paulo;São Paulo;SP;Autonômo;08. 56 a 60 anos
+246;São Paulo;São Paulo;SP;Profissional Liberal;08. 56 a 60 anos
+247;São Paulo;São Paulo;SP;Assalariado;03. 31 a 35 anos
+248;São Paulo;São Paulo;SP;Funcionário Público;03. 31 a 35 anos
+249;São Paulo;São Paulo;SP;Militar;02. 26 a 30 anos
+250;São Paulo;São Paulo;SP;Funcionário Público;07. 51 a 55 anos
+251;São Paulo;São Paulo;SP;Aposentado;10. Acima de 65 anos
+252;São Paulo;São Paulo;SP;Empresário;01. 18 a 24 anos
+253;São Paulo;São Paulo;SP;Assalariado;09. 61 a 65 anos
+254;São Paulo;São Paulo;SP;Aposentado;10. Acima de 65 anos
+255;São Paulo;São Paulo;SP;Profissional Liberal;07. 51 a 55 anos
+256;São Paulo;São Paulo;SP;Assalariado;05. 41 a 45 anos
+257;São Paulo;São Paulo;SP;Assalariado;07. 51 a 55 anos
+258;São Paulo;São Paulo;SP;Empresário;05. 41 a 45 anos
+259;São Paulo;São Paulo;SP;Empresário;07. 51 a 55 anos
+260;São Paulo;São Paulo;SP;Assalariado;03. 31 a 35 anos
+261;São Paulo;São Paulo;SP;Profissional Liberal;03. 31 a 35 anos
+262;São Paulo;São Paulo;SP;Assalariado;07. 51 a 55 anos
+263;São Paulo;São Paulo;SP;Assalariado;09. 61 a 65 anos
+264;São Paulo;São Paulo;SP;Funcionário Público;09. 61 a 65 anos
+265;São Paulo;São Paulo;SP;Militar;08. 56 a 60 anos
+266;São Paulo;São Paulo;SP;Profissional Liberal;01. 18 a 24 anos
+267;São Paulo;São Paulo;SP;Autonômo;03. 31 a 35 anos
+268;São Paulo;São Paulo;SP;Empresário;03. 31 a 35 anos
+269;São Paulo;São Paulo;SP;Militar;05. 41 a 45 anos
+270;São Paulo;São Paulo;SP;Assalariado;01. 18 a 24 anos
+271;São Paulo;São Paulo;SP;Autonômo;07. 51 a 55 anos
+272;São Paulo;São Paulo;SP;Profissional Liberal;08. 56 a 60 anos
+273;São Paulo;São Paulo;SP;Militar;03. 31 a 35 anos
+274;São Paulo;São Paulo;SP;Assalariado;06. 46 a 50 anos
+275;São Paulo;São Paulo;SP;Profissional Liberal;02. 26 a 30 anos
+276;São Paulo;São Paulo;SP;Assalariado;02. 26 a 30 anos
+277;São Paulo;São Paulo;SP;Militar;08. 56 a 60 anos
+278;São Paulo;São Paulo;SP;Profissional Liberal;09. 61 a 65 anos
+279;São Paulo;São Paulo;SP;Militar;03. 31 a 35 anos
+280;São Paulo;São Paulo;SP;Profissional Liberal;03. 31 a 35 anos
+281;São Paulo;São Paulo;SP;Autonômo;04. 36 a 40 anos
+282;São Paulo;São Paulo;SP;Aposentado;10. Acima de 65 anos
+283;São Paulo;São Paulo;SP;Assalariado;09. 61 a 65 anos
+284;São Paulo;São Paulo;SP;Militar;08. 56 a 60 anos
+285;São Paulo;São Paulo;SP;Assalariado;07. 51 a 55 anos
+286;São Paulo;São Paulo;SP;Assalariado;09. 61 a 65 anos
+287;São Paulo;São Paulo;SP;Profissional Liberal;09. 61 a 65 anos
+288;São Paulo;São Paulo;SP;Autonômo;04. 36 a 40 anos
+289;São Paulo;São Paulo;SP;Aposentado;10. Acima de 65 anos
+290;São Paulo;São Paulo;SP;Assalariado;03. 31 a 35 anos
+291;São Paulo;São Paulo;SP;Assalariado;09. 61 a 65 anos
+292;São Paulo;São Paulo;SP;Assalariado;01. 18 a 24 anos
+293;São Paulo;São Paulo;SP;Funcionário Público;07. 51 a 55 anos
+294;São Paulo;São Paulo;SP;Funcionário Público;07. 51 a 55 anos
+295;São Paulo;São Paulo;SP;Assalariado;03. 31 a 35 anos
+296;São Paulo;São Paulo;SP;Aposentado;10. Acima de 65 anos
+297;São Paulo;São Paulo;SP;Aposentado;10. Acima de 65 anos
+298;São Paulo;São Paulo;SP;Autonômo;09. 61 a 65 anos
+299;São Paulo;São Paulo;SP;Autonômo;03. 31 a 35 anos
+300;São Paulo;São Paulo;SP;Empresário;06. 46 a 50 anos
+301;São Paulo;São Paulo;SP;Assalariado;04. 36 a 40 anos
+302;São Paulo;São Paulo;SP;Autonômo;09. 61 a 65 anos
+303;São Paulo;São Paulo;SP;Militar;05. 41 a 45 anos
+304;São Paulo;São Paulo;SP;Funcionário Público;06. 46 a 50 anos
+305;São Paulo;São Paulo;SP;Militar;01. 18 a 24 anos
+306;São Paulo;São Paulo;SP;Profissional Liberal;02. 26 a 30 anos
+307;São Paulo;São Paulo;SP;Aposentado;10. Acima de 65 anos
+308;São Paulo;São Paulo;SP;Assalariado;03. 31 a 35 anos
+309;São Paulo;São Paulo;SP;Militar;03. 31 a 35 anos
+310;São Paulo;São Paulo;SP;Funcionário Público;09. 61 a 65 anos
+311;São Paulo;São Paulo;SP;Aposentado;10. Acima de 65 anos
+312;São Paulo;São Paulo;SP;Militar;05. 41 a 45 anos
+313;São Paulo;São Paulo;SP;Empresário;01. 18 a 24 anos
+314;São Paulo;São Paulo;SP;Militar;08. 56 a 60 anos
+315;São Paulo;São Paulo;SP;Aposentado;10. Acima de 65 anos
+316;São Paulo;São Paulo;SP;Assalariado;04. 36 a 40 anos
+317;São Paulo;São Paulo;SP;Militar;07. 51 a 55 anos
+318;São Paulo;São Paulo;SP;Funcionário Público;01. 18 a 24 anos
+319;São Paulo;São Paulo;SP;Profissional Liberal;06. 46 a 50 anos
+320;São Paulo;São Paulo;SP;Aposentado;10. Acima de 65 anos
+321;São Paulo;São Paulo;SP;Funcionário Público;03. 31 a 35 anos
+322;São Paulo;São Paulo;SP;Aposentado;10. Acima de 65 anos
+323;São Paulo;São Paulo;SP;Funcionário Público;04. 36 a 40 anos
+324;São Paulo;São Paulo;SP;Profissional Liberal;04. 36 a 40 anos
+325;São Paulo;São Paulo;SP;Funcionário Público;04. 36 a 40 anos
+326;São Paulo;São Paulo;SP;Assalariado;03. 31 a 35 anos
+327;São Paulo;São Paulo;SP;Assalariado;06. 46 a 50 anos
+328;São Paulo;São Paulo;SP;Empresário;02. 26 a 30 anos
+329;São Paulo;São Paulo;SP;Empresário;01. 18 a 24 anos
+330;São Paulo;São Paulo;SP;Militar;03. 31 a 35 anos
+331;São Paulo;São Paulo;SP;Empresário;03. 31 a 35 anos
+332;São Paulo;São Paulo;SP;Aposentado;10. Acima de 65 anos
+333;São Paulo;São Paulo;SP;Funcionário Público;04. 36 a 40 anos
+334;São Paulo;São Paulo;SP;Assalariado;06. 46 a 50 anos
+335;São Paulo;São Paulo;SP;Assalariado;09. 61 a 65 anos
+336;São Paulo;São Paulo;SP;Assalariado;03. 31 a 35 anos
+337;São Paulo;São Paulo;SP;Aposentado;10. Acima de 65 anos
+338;São Paulo;São Paulo;SP;Militar;02. 26 a 30 anos
+339;São Paulo;São Paulo;SP;Assalariado;09. 61 a 65 anos
+340;São Paulo;São Paulo;SP;Profissional Liberal;03. 31 a 35 anos
+341;São Paulo;São Paulo;SP;Militar;04. 36 a 40 anos
+342;São Paulo;São Paulo;SP;Funcionário Público;02. 26 a 30 anos
+343;São Paulo;São Paulo;SP;Empresário;09. 61 a 65 anos
+344;São Paulo;São Paulo;SP;Funcionário Público;07. 51 a 55 anos
+345;São Paulo;São Paulo;SP;Aposentado;10. Acima de 65 anos
+346;São Paulo;São Paulo;SP;Assalariado;04. 36 a 40 anos
+347;São Paulo;São Paulo;SP;Aposentado;10. Acima de 65 anos
+348;São Paulo;São Paulo;SP;Assalariado;07. 51 a 55 anos
+349;São Paulo;São Paulo;SP;Aposentado;10. Acima de 65 anos
+350;São Paulo;São Paulo;SP;Profissional Liberal;03. 31 a 35 anos
+351;São Paulo;São Paulo;SP;Profissional Liberal;04. 36 a 40 anos
+352;São Paulo;São Paulo;SP;Aposentado;10. Acima de 65 anos
+353;São Paulo;São Paulo;SP;Assalariado;05. 41 a 45 anos
+354;São Paulo;São Paulo;SP;Assalariado;03. 31 a 35 anos
+355;São Paulo;São Paulo;SP;Assalariado;07. 51 a 55 anos
+356;São Paulo;São Paulo;SP;Assalariado;08. 56 a 60 anos
+357;São Paulo;São Paulo;SP;Empresário;03. 31 a 35 anos
+358;São Paulo;São Paulo;SP;Autonômo;08. 56 a 60 anos
+359;São Paulo;São Paulo;SP;Funcionário Público;05. 41 a 45 anos
+360;São Paulo;São Paulo;SP;Empresário;01. 18 a 24 anos
+361;São Paulo;São Paulo;SP;Assalariado;07. 51 a 55 anos
+362;São Paulo;São Paulo;SP;Autonômo;03. 31 a 35 anos
+363;São Paulo;São Paulo;SP;Funcionário Público;07. 51 a 55 anos
+364;São Paulo;São Paulo;SP;Assalariado;05. 41 a 45 anos
+365;São Paulo;São Paulo;SP;Militar;06. 46 a 50 anos
+366;São Paulo;São Paulo;SP;Empresário;05. 41 a 45 anos
+367;São Paulo;São Paulo;SP;Assalariado;03. 31 a 35 anos
+368;São Paulo;São Paulo;SP;Assalariado;03. 31 a 35 anos
+369;São Paulo;São Paulo;SP;Funcionário Público;05. 41 a 45 anos
+370;São Paulo;São Paulo;SP;Profissional Liberal;03. 31 a 35 anos
+371;São Paulo;São Paulo;SP;Profissional Liberal;01. 18 a 24 anos
+372;São Paulo;São Paulo;SP;Aposentado;10. Acima de 65 anos
+373;São Paulo;São Paulo;SP;Assalariado;07. 51 a 55 anos
+374;São Paulo;São Paulo;SP;Assalariado;06. 46 a 50 anos
+375;São Paulo;São Paulo;SP;Autonômo;02. 26 a 30 anos
+376;São Paulo;São Paulo;SP;Profissional Liberal;09. 61 a 65 anos
+377;São Paulo;São Paulo;SP;Militar;03. 31 a 35 anos
+378;São Paulo;São Paulo;SP;Profissional Liberal;06. 46 a 50 anos
+379;São Paulo;São Paulo;SP;Militar;03. 31 a 35 anos
+380;São Paulo;São Paulo;SP;Militar;01. 18 a 24 anos
+381;São Paulo;São Paulo;SP;Profissional Liberal;01. 18 a 24 anos
+382;São Paulo;São Paulo;SP;Assalariado;09. 61 a 65 anos
+383;São Paulo;São Paulo;SP;Funcionário Público;03. 31 a 35 anos
+384;São Paulo;São Paulo;SP;Profissional Liberal;07. 51 a 55 anos
+385;São Paulo;São Paulo;SP;Assalariado;07. 51 a 55 anos
+386;São Paulo;São Paulo;SP;Militar;07. 51 a 55 anos
+387;São Paulo;São Paulo;SP;Assalariado;01. 18 a 24 anos
+388;São Paulo;São Paulo;SP;Militar;08. 56 a 60 anos
+389;São Paulo;São Paulo;SP;Militar;09. 61 a 65 anos
+390;São Paulo;São Paulo;SP;Funcionário Público;04. 36 a 40 anos
+391;São Paulo;São Paulo;SP;Autonômo;03. 31 a 35 anos
+392;São Paulo;São Paulo;SP;Militar;07. 51 a 55 anos
+393;São Paulo;São Paulo;SP;Aposentado;10. Acima de 65 anos
+394;São Paulo;São Paulo;SP;Autonômo;03. 31 a 35 anos
+395;São Paulo;São Paulo;SP;Assalariado;08. 56 a 60 anos
+396;São Paulo;São Paulo;SP;Empresário;09. 61 a 65 anos
+397;São Paulo;São Paulo;SP;Autonômo;06. 46 a 50 anos
+398;São Paulo;São Paulo;SP;Funcionário Público;05. 41 a 45 anos
+399;São Paulo;São Paulo;SP;Empresário;07. 51 a 55 anos
+400;São Paulo;São Paulo;SP;Aposentado;10. Acima de 65 anos
+401;Rio de Janeiro;Rio de Janeiro;RJ;Profissional Liberal;09. 61 a 65 anos
+402;Rio de Janeiro;Rio de Janeiro;RJ;Autonômo;02. 26 a 30 anos
+403;Rio de Janeiro;Rio de Janeiro;RJ;Militar;05. 41 a 45 anos
+404;Rio de Janeiro;Rio de Janeiro;RJ;Autonômo;02. 26 a 30 anos
+405;Rio de Janeiro;Rio de Janeiro;RJ;Funcionário Público;05. 41 a 45 anos
+406;Rio de Janeiro;Rio de Janeiro;RJ;Funcionário Público;04. 36 a 40 anos
+407;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;03. 31 a 35 anos
+408;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;06. 46 a 50 anos
+409;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;01. 18 a 24 anos
+410;Rio de Janeiro;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+411;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;03. 31 a 35 anos
+412;Rio de Janeiro;Rio de Janeiro;RJ;Militar;05. 41 a 45 anos
+413;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;07. 51 a 55 anos
+414;Rio de Janeiro;Rio de Janeiro;RJ;Militar;01. 18 a 24 anos
+415;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;02. 26 a 30 anos
+416;Rio de Janeiro;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+417;Rio de Janeiro;Rio de Janeiro;RJ;Empresário;06. 46 a 50 anos
+418;Rio de Janeiro;Rio de Janeiro;RJ;Militar;06. 46 a 50 anos
+419;Rio de Janeiro;Rio de Janeiro;RJ;Funcionário Público;03. 31 a 35 anos
+420;Rio de Janeiro;Rio de Janeiro;RJ;Autonômo;03. 31 a 35 anos
+421;Rio de Janeiro;Rio de Janeiro;RJ;Profissional Liberal;01. 18 a 24 anos
+422;Rio de Janeiro;Rio de Janeiro;RJ;Profissional Liberal;07. 51 a 55 anos
+423;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;08. 56 a 60 anos
+424;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;08. 56 a 60 anos
+425;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;09. 61 a 65 anos
+426;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;08. 56 a 60 anos
+427;Rio de Janeiro;Rio de Janeiro;RJ;Profissional Liberal;08. 56 a 60 anos
+428;Rio de Janeiro;Rio de Janeiro;RJ;Militar;07. 51 a 55 anos
+429;Rio de Janeiro;Rio de Janeiro;RJ;Militar;02. 26 a 30 anos
+430;Rio de Janeiro;Rio de Janeiro;RJ;Funcionário Público;08. 56 a 60 anos
+431;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;07. 51 a 55 anos
+432;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;05. 41 a 45 anos
+433;Rio de Janeiro;Rio de Janeiro;RJ;Militar;02. 26 a 30 anos
+434;Rio de Janeiro;Rio de Janeiro;RJ;Militar;04. 36 a 40 anos
+435;Rio de Janeiro;Rio de Janeiro;RJ;Funcionário Público;04. 36 a 40 anos
+436;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;02. 26 a 30 anos
+437;Rio de Janeiro;Rio de Janeiro;RJ;Funcionário Público;02. 26 a 30 anos
+438;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;07. 51 a 55 anos
+439;Rio de Janeiro;Rio de Janeiro;RJ;Autonômo;03. 31 a 35 anos
+440;Rio de Janeiro;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+441;Rio de Janeiro;Rio de Janeiro;RJ;Funcionário Público;02. 26 a 30 anos
+442;Rio de Janeiro;Rio de Janeiro;RJ;Autonômo;01. 18 a 24 anos
+443;Rio de Janeiro;Rio de Janeiro;RJ;Empresário;08. 56 a 60 anos
+444;Rio de Janeiro;Rio de Janeiro;RJ;Autonômo;01. 18 a 24 anos
+445;Rio de Janeiro;Rio de Janeiro;RJ;Profissional Liberal;06. 46 a 50 anos
+446;Rio de Janeiro;Rio de Janeiro;RJ;Profissional Liberal;09. 61 a 65 anos
+447;Rio de Janeiro;Rio de Janeiro;RJ;Empresário;04. 36 a 40 anos
+448;Rio de Janeiro;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+449;Rio de Janeiro;Rio de Janeiro;RJ;Profissional Liberal;06. 46 a 50 anos
+450;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;07. 51 a 55 anos
+451;Rio de Janeiro;Rio de Janeiro;RJ;Empresário;01. 18 a 24 anos
+452;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;01. 18 a 24 anos
+453;Rio de Janeiro;Rio de Janeiro;RJ;Autonômo;07. 51 a 55 anos
+454;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;05. 41 a 45 anos
+455;Rio de Janeiro;Rio de Janeiro;RJ;Autonômo;03. 31 a 35 anos
+456;Rio de Janeiro;Rio de Janeiro;RJ;Empresário;02. 26 a 30 anos
+457;Rio de Janeiro;Rio de Janeiro;RJ;Profissional Liberal;08. 56 a 60 anos
+458;Rio de Janeiro;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+459;Rio de Janeiro;Rio de Janeiro;RJ;Militar;03. 31 a 35 anos
+460;Rio de Janeiro;Rio de Janeiro;RJ;Profissional Liberal;09. 61 a 65 anos
+461;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;06. 46 a 50 anos
+462;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;07. 51 a 55 anos
+463;Rio de Janeiro;Rio de Janeiro;RJ;Profissional Liberal;01. 18 a 24 anos
+464;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;04. 36 a 40 anos
+465;Rio de Janeiro;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+466;Rio de Janeiro;Rio de Janeiro;RJ;Funcionário Público;03. 31 a 35 anos
+467;Rio de Janeiro;Rio de Janeiro;RJ;Militar;03. 31 a 35 anos
+468;Rio de Janeiro;Rio de Janeiro;RJ;Funcionário Público;03. 31 a 35 anos
+469;Rio de Janeiro;Rio de Janeiro;RJ;Autonômo;02. 26 a 30 anos
+470;Rio de Janeiro;Rio de Janeiro;RJ;Funcionário Público;03. 31 a 35 anos
+471;Rio de Janeiro;Rio de Janeiro;RJ;Autonômo;08. 56 a 60 anos
+472;Rio de Janeiro;Rio de Janeiro;RJ;Autonômo;09. 61 a 65 anos
+473;Rio de Janeiro;Rio de Janeiro;RJ;Empresário;07. 51 a 55 anos
+474;Rio de Janeiro;Rio de Janeiro;RJ;Militar;03. 31 a 35 anos
+475;Rio de Janeiro;Rio de Janeiro;RJ;Militar;08. 56 a 60 anos
+476;Rio de Janeiro;Rio de Janeiro;RJ;Profissional Liberal;06. 46 a 50 anos
+477;Rio de Janeiro;Rio de Janeiro;RJ;Autonômo;03. 31 a 35 anos
+478;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;07. 51 a 55 anos
+479;Rio de Janeiro;Rio de Janeiro;RJ;Autonômo;02. 26 a 30 anos
+480;Rio de Janeiro;Rio de Janeiro;RJ;Autonômo;07. 51 a 55 anos
+481;Rio de Janeiro;Rio de Janeiro;RJ;Empresário;05. 41 a 45 anos
+482;Rio de Janeiro;Rio de Janeiro;RJ;Militar;01. 18 a 24 anos
+483;Rio de Janeiro;Rio de Janeiro;RJ;Autonômo;01. 18 a 24 anos
+484;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;05. 41 a 45 anos
+485;Rio de Janeiro;Rio de Janeiro;RJ;Funcionário Público;07. 51 a 55 anos
+486;Rio de Janeiro;Rio de Janeiro;RJ;Empresário;05. 41 a 45 anos
+487;Rio de Janeiro;Rio de Janeiro;RJ;Autonômo;05. 41 a 45 anos
+488;Rio de Janeiro;Rio de Janeiro;RJ;Empresário;02. 26 a 30 anos
+489;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;05. 41 a 45 anos
+490;Rio de Janeiro;Rio de Janeiro;RJ;Militar;08. 56 a 60 anos
+491;Rio de Janeiro;Rio de Janeiro;RJ;Funcionário Público;06. 46 a 50 anos
+492;Rio de Janeiro;Rio de Janeiro;RJ;Autonômo;08. 56 a 60 anos
+493;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;06. 46 a 50 anos
+494;Rio de Janeiro;Rio de Janeiro;RJ;Autonômo;04. 36 a 40 anos
+495;Rio de Janeiro;Rio de Janeiro;RJ;Funcionário Público;02. 26 a 30 anos
+496;Rio de Janeiro;Rio de Janeiro;RJ;Profissional Liberal;03. 31 a 35 anos
+497;Rio de Janeiro;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+498;Rio de Janeiro;Rio de Janeiro;RJ;Profissional Liberal;08. 56 a 60 anos
+499;Rio de Janeiro;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+500;Rio de Janeiro;Rio de Janeiro;RJ;Autonômo;04. 36 a 40 anos
+501;Rio de Janeiro;Rio de Janeiro;RJ;Profissional Liberal;09. 61 a 65 anos
+502;Rio de Janeiro;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+503;Rio de Janeiro;Rio de Janeiro;RJ;Empresário;03. 31 a 35 anos
+504;Rio de Janeiro;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+505;Rio de Janeiro;Rio de Janeiro;RJ;Profissional Liberal;01. 18 a 24 anos
+506;Rio de Janeiro;Rio de Janeiro;RJ;Militar;06. 46 a 50 anos
+507;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;03. 31 a 35 anos
+508;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;05. 41 a 45 anos
+509;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;09. 61 a 65 anos
+510;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;09. 61 a 65 anos
+511;Rio de Janeiro;Rio de Janeiro;RJ;Funcionário Público;08. 56 a 60 anos
+512;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;02. 26 a 30 anos
+513;Rio de Janeiro;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+514;Rio de Janeiro;Rio de Janeiro;RJ;Profissional Liberal;04. 36 a 40 anos
+515;Rio de Janeiro;Rio de Janeiro;RJ;Profissional Liberal;05. 41 a 45 anos
+516;Rio de Janeiro;Rio de Janeiro;RJ;Profissional Liberal;03. 31 a 35 anos
+517;Rio de Janeiro;Rio de Janeiro;RJ;Funcionário Público;05. 41 a 45 anos
+518;Rio de Janeiro;Rio de Janeiro;RJ;Profissional Liberal;03. 31 a 35 anos
+519;Rio de Janeiro;Rio de Janeiro;RJ;Autonômo;07. 51 a 55 anos
+520;Rio de Janeiro;Rio de Janeiro;RJ;Empresário;02. 26 a 30 anos
+521;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;01. 18 a 24 anos
+522;Rio de Janeiro;Rio de Janeiro;RJ;Funcionário Público;02. 26 a 30 anos
+523;Rio de Janeiro;Rio de Janeiro;RJ;Funcionário Público;02. 26 a 30 anos
+524;Rio de Janeiro;Rio de Janeiro;RJ;Autonômo;03. 31 a 35 anos
+525;Rio de Janeiro;Rio de Janeiro;RJ;Militar;08. 56 a 60 anos
+526;Rio de Janeiro;Rio de Janeiro;RJ;Profissional Liberal;07. 51 a 55 anos
+527;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;02. 26 a 30 anos
+528;Rio de Janeiro;Rio de Janeiro;RJ;Empresário;05. 41 a 45 anos
+529;Rio de Janeiro;Rio de Janeiro;RJ;Militar;02. 26 a 30 anos
+530;Rio de Janeiro;Rio de Janeiro;RJ;Autonômo;05. 41 a 45 anos
+531;Rio de Janeiro;Rio de Janeiro;RJ;Empresário;06. 46 a 50 anos
+532;Rio de Janeiro;Rio de Janeiro;RJ;Profissional Liberal;05. 41 a 45 anos
+533;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;09. 61 a 65 anos
+534;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;03. 31 a 35 anos
+535;Rio de Janeiro;Rio de Janeiro;RJ;Profissional Liberal;03. 31 a 35 anos
+536;Rio de Janeiro;Rio de Janeiro;RJ;Militar;09. 61 a 65 anos
+537;Rio de Janeiro;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+538;Rio de Janeiro;Rio de Janeiro;RJ;Autonômo;07. 51 a 55 anos
+539;Rio de Janeiro;Rio de Janeiro;RJ;Profissional Liberal;08. 56 a 60 anos
+540;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;02. 26 a 30 anos
+541;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;04. 36 a 40 anos
+542;Rio de Janeiro;Rio de Janeiro;RJ;Empresário;07. 51 a 55 anos
+543;Rio de Janeiro;Rio de Janeiro;RJ;Autonômo;03. 31 a 35 anos
+544;Rio de Janeiro;Rio de Janeiro;RJ;Funcionário Público;03. 31 a 35 anos
+545;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;07. 51 a 55 anos
+546;Rio de Janeiro;Rio de Janeiro;RJ;Militar;07. 51 a 55 anos
+547;Rio de Janeiro;Rio de Janeiro;RJ;Profissional Liberal;04. 36 a 40 anos
+548;Rio de Janeiro;Rio de Janeiro;RJ;Autonômo;03. 31 a 35 anos
+549;Rio de Janeiro;Rio de Janeiro;RJ;Funcionário Público;05. 41 a 45 anos
+550;Rio de Janeiro;Rio de Janeiro;RJ;Profissional Liberal;08. 56 a 60 anos
+551;Rio de Janeiro;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+552;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;04. 36 a 40 anos
+553;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;07. 51 a 55 anos
+554;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;03. 31 a 35 anos
+555;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;04. 36 a 40 anos
+556;Rio de Janeiro;Rio de Janeiro;RJ;Empresário;06. 46 a 50 anos
+557;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;07. 51 a 55 anos
+558;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;02. 26 a 30 anos
+559;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;08. 56 a 60 anos
+560;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;02. 26 a 30 anos
+561;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;02. 26 a 30 anos
+562;Rio de Janeiro;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+563;Rio de Janeiro;Rio de Janeiro;RJ;Funcionário Público;06. 46 a 50 anos
+564;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;06. 46 a 50 anos
+565;Rio de Janeiro;Rio de Janeiro;RJ;Profissional Liberal;02. 26 a 30 anos
+566;Rio de Janeiro;Rio de Janeiro;RJ;Profissional Liberal;02. 26 a 30 anos
+567;Rio de Janeiro;Rio de Janeiro;RJ;Autonômo;02. 26 a 30 anos
+568;Rio de Janeiro;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+569;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;02. 26 a 30 anos
+570;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;04. 36 a 40 anos
+571;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;02. 26 a 30 anos
+572;Rio de Janeiro;Rio de Janeiro;RJ;Empresário;03. 31 a 35 anos
+573;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;05. 41 a 45 anos
+574;Rio de Janeiro;Rio de Janeiro;RJ;Empresário;08. 56 a 60 anos
+575;Rio de Janeiro;Rio de Janeiro;RJ;Empresário;01. 18 a 24 anos
+576;Rio de Janeiro;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+577;Rio de Janeiro;Rio de Janeiro;RJ;Empresário;07. 51 a 55 anos
+578;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;02. 26 a 30 anos
+579;Rio de Janeiro;Rio de Janeiro;RJ;Empresário;03. 31 a 35 anos
+580;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;03. 31 a 35 anos
+581;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;03. 31 a 35 anos
+582;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;06. 46 a 50 anos
+583;Rio de Janeiro;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+584;Rio de Janeiro;Rio de Janeiro;RJ;Autonômo;06. 46 a 50 anos
+585;Rio de Janeiro;Rio de Janeiro;RJ;Autonômo;06. 46 a 50 anos
+586;Rio de Janeiro;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+587;Rio de Janeiro;Rio de Janeiro;RJ;Empresário;03. 31 a 35 anos
+588;Rio de Janeiro;Rio de Janeiro;RJ;Militar;06. 46 a 50 anos
+589;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;05. 41 a 45 anos
+590;Rio de Janeiro;Rio de Janeiro;RJ;Militar;05. 41 a 45 anos
+591;Rio de Janeiro;Rio de Janeiro;RJ;Profissional Liberal;03. 31 a 35 anos
+592;Rio de Janeiro;Rio de Janeiro;RJ;Militar;02. 26 a 30 anos
+593;Rio de Janeiro;Rio de Janeiro;RJ;Empresário;05. 41 a 45 anos
+594;Rio de Janeiro;Rio de Janeiro;RJ;Empresário;07. 51 a 55 anos
+595;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;08. 56 a 60 anos
+596;Rio de Janeiro;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+597;Rio de Janeiro;Rio de Janeiro;RJ;Empresário;09. 61 a 65 anos
+598;Rio de Janeiro;Rio de Janeiro;RJ;Assalariado;03. 31 a 35 anos
+599;Rio de Janeiro;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+600;Rio de Janeiro;Rio de Janeiro;RJ;Empresário;04. 36 a 40 anos
+601;Botafogo;Rio de Janeiro;RJ;Autonômo;06. 46 a 50 anos
+602;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Militar;04. 36 a 40 anos
+603;Botafogo;Rio de Janeiro;RJ;Funcionário Público;05. 41 a 45 anos
+604;Botafogo;Rio de Janeiro;RJ;Autonômo;09. 61 a 65 anos
+605;Botafogo;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+606;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Autonômo;01. 18 a 24 anos
+607;Botafogo;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+608;Botafogo;Rio de Janeiro;RJ;Autonômo;01. 18 a 24 anos
+609;Botafogo;Rio de Janeiro;RJ;Militar;08. 56 a 60 anos
+610;Botafogo;Rio de Janeiro;RJ;Assalariado;03. 31 a 35 anos
+611;Botafogo;Rio de Janeiro;RJ;Funcionário Público;05. 41 a 45 anos
+612;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+613;Botafogo;Rio de Janeiro;RJ;Funcionário Público;09. 61 a 65 anos
+614;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Assalariado;05. 41 a 45 anos
+615;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Militar;08. 56 a 60 anos
+616;Botafogo;Rio de Janeiro;RJ;Empresário;01. 18 a 24 anos
+617;Botafogo;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+618;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Assalariado;03. 31 a 35 anos
+619;Botafogo;Rio de Janeiro;RJ;Empresário;06. 46 a 50 anos
+620;Botafogo;Rio de Janeiro;RJ;Assalariado;01. 18 a 24 anos
+621;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Funcionário Público;06. 46 a 50 anos
+622;Botafogo;Rio de Janeiro;RJ;Assalariado;03. 31 a 35 anos
+623;Botafogo;Rio de Janeiro;RJ;Militar;08. 56 a 60 anos
+624;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Autonômo;04. 36 a 40 anos
+625;Botafogo;Rio de Janeiro;RJ;Funcionário Público;08. 56 a 60 anos
+626;Botafogo;Rio de Janeiro;RJ;Empresário;02. 26 a 30 anos
+627;Botafogo;Rio de Janeiro;RJ;Funcionário Público;02. 26 a 30 anos
+628;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Empresário;02. 26 a 30 anos
+629;Botafogo;Rio de Janeiro;RJ;Empresário;01. 18 a 24 anos
+630;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Profissional Liberal;03. 31 a 35 anos
+631;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Militar;03. 31 a 35 anos
+632;Botafogo;Rio de Janeiro;RJ;Assalariado;07. 51 a 55 anos
+633;Botafogo;Rio de Janeiro;RJ;Funcionário Público;02. 26 a 30 anos
+634;Botafogo;Rio de Janeiro;RJ;Empresário;03. 31 a 35 anos
+635;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Autonômo;02. 26 a 30 anos
+636;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Profissional Liberal;01. 18 a 24 anos
+637;Botafogo;Rio de Janeiro;RJ;Militar;03. 31 a 35 anos
+638;Botafogo;Rio de Janeiro;RJ;Empresário;07. 51 a 55 anos
+639;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Funcionário Público;08. 56 a 60 anos
+640;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Autonômo;02. 26 a 30 anos
+641;Botafogo;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+642;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Empresário;01. 18 a 24 anos
+643;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Assalariado;02. 26 a 30 anos
+644;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Autonômo;04. 36 a 40 anos
+645;Botafogo;Rio de Janeiro;RJ;Autonômo;06. 46 a 50 anos
+646;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Assalariado;03. 31 a 35 anos
+647;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Empresário;01. 18 a 24 anos
+648;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Assalariado;02. 26 a 30 anos
+649;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Militar;08. 56 a 60 anos
+650;Botafogo;Rio de Janeiro;RJ;Assalariado;02. 26 a 30 anos
+651;Botafogo;Rio de Janeiro;RJ;Assalariado;01. 18 a 24 anos
+652;Botafogo;Rio de Janeiro;RJ;Autonômo;01. 18 a 24 anos
+653;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Empresário;03. 31 a 35 anos
+654;Botafogo;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+655;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Assalariado;01. 18 a 24 anos
+656;Botafogo;Rio de Janeiro;RJ;Profissional Liberal;04. 36 a 40 anos
+657;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Militar;04. 36 a 40 anos
+658;Botafogo;Rio de Janeiro;RJ;Profissional Liberal;01. 18 a 24 anos
+659;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Empresário;03. 31 a 35 anos
+660;Botafogo;Rio de Janeiro;RJ;Assalariado;06. 46 a 50 anos
+661;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Profissional Liberal;02. 26 a 30 anos
+662;Botafogo;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+663;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+664;Botafogo;Rio de Janeiro;RJ;Assalariado;03. 31 a 35 anos
+665;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+666;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Assalariado;04. 36 a 40 anos
+667;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Profissional Liberal;07. 51 a 55 anos
+668;Botafogo;Rio de Janeiro;RJ;Militar;09. 61 a 65 anos
+669;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Empresário;01. 18 a 24 anos
+670;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Funcionário Público;05. 41 a 45 anos
+671;Botafogo;Rio de Janeiro;RJ;Assalariado;02. 26 a 30 anos
+672;Botafogo;Rio de Janeiro;RJ;Profissional Liberal;07. 51 a 55 anos
+673;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Assalariado;04. 36 a 40 anos
+674;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Assalariado;07. 51 a 55 anos
+675;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Assalariado;04. 36 a 40 anos
+676;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Autonômo;08. 56 a 60 anos
+677;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Assalariado;07. 51 a 55 anos
+678;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Empresário;08. 56 a 60 anos
+679;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Autonômo;01. 18 a 24 anos
+680;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Profissional Liberal;09. 61 a 65 anos
+681;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Militar;08. 56 a 60 anos
+682;Botafogo;Rio de Janeiro;RJ;Profissional Liberal;08. 56 a 60 anos
+683;Botafogo;Rio de Janeiro;RJ;Funcionário Público;06. 46 a 50 anos
+684;Botafogo;Rio de Janeiro;RJ;Funcionário Público;02. 26 a 30 anos
+685;Botafogo;Rio de Janeiro;RJ;Funcionário Público;04. 36 a 40 anos
+686;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Autonômo;07. 51 a 55 anos
+687;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Funcionário Público;04. 36 a 40 anos
+688;Botafogo;Rio de Janeiro;RJ;Militar;03. 31 a 35 anos
+689;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Assalariado;01. 18 a 24 anos
+690;Botafogo;Rio de Janeiro;RJ;Empresário;06. 46 a 50 anos
+691;Botafogo;Rio de Janeiro;RJ;Autonômo;02. 26 a 30 anos
+692;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Profissional Liberal;01. 18 a 24 anos
+693;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+694;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Assalariado;07. 51 a 55 anos
+695;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Funcionário Público;07. 51 a 55 anos
+696;Botafogo;Rio de Janeiro;RJ;Assalariado;02. 26 a 30 anos
+697;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Militar;02. 26 a 30 anos
+698;Botafogo;Rio de Janeiro;RJ;Assalariado;09. 61 a 65 anos
+699;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Profissional Liberal;08. 56 a 60 anos
+700;Recreio dos Bandeirantes;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+701;Niterói;Rio de Janeiro;RJ;Militar;06. 46 a 50 anos
+702;Niterói;Rio de Janeiro;RJ;Assalariado;03. 31 a 35 anos
+703;Niterói;Rio de Janeiro;RJ;Profissional Liberal;04. 36 a 40 anos
+704;Niterói;Rio de Janeiro;RJ;Assalariado;03. 31 a 35 anos
+705;Niterói;Rio de Janeiro;RJ;Profissional Liberal;06. 46 a 50 anos
+706;Niterói;Rio de Janeiro;RJ;Assalariado;07. 51 a 55 anos
+707;Niterói;Rio de Janeiro;RJ;Empresário;06. 46 a 50 anos
+708;Niterói;Rio de Janeiro;RJ;Militar;08. 56 a 60 anos
+709;Niterói;Rio de Janeiro;RJ;Profissional Liberal;02. 26 a 30 anos
+710;Niterói;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+711;Niterói;Rio de Janeiro;RJ;Militar;05. 41 a 45 anos
+712;Niterói;Rio de Janeiro;RJ;Assalariado;06. 46 a 50 anos
+713;Niterói;Rio de Janeiro;RJ;Assalariado;06. 46 a 50 anos
+714;Niterói;Rio de Janeiro;RJ;Autonômo;02. 26 a 30 anos
+715;Niterói;Rio de Janeiro;RJ;Funcionário Público;05. 41 a 45 anos
+716;Niterói;Rio de Janeiro;RJ;Militar;03. 31 a 35 anos
+717;Niterói;Rio de Janeiro;RJ;Militar;01. 18 a 24 anos
+718;Niterói;Rio de Janeiro;RJ;Assalariado;09. 61 a 65 anos
+719;Niterói;Rio de Janeiro;RJ;Empresário;06. 46 a 50 anos
+720;Niterói;Rio de Janeiro;RJ;Empresário;05. 41 a 45 anos
+721;Niterói;Rio de Janeiro;RJ;Assalariado;06. 46 a 50 anos
+722;Niterói;Rio de Janeiro;RJ;Profissional Liberal;05. 41 a 45 anos
+723;Niterói;Rio de Janeiro;RJ;Profissional Liberal;04. 36 a 40 anos
+724;Niterói;Rio de Janeiro;RJ;Funcionário Público;02. 26 a 30 anos
+725;Niterói;Rio de Janeiro;RJ;Assalariado;03. 31 a 35 anos
+726;Niterói;Rio de Janeiro;RJ;Empresário;05. 41 a 45 anos
+727;Niterói;Rio de Janeiro;RJ;Empresário;06. 46 a 50 anos
+728;Niterói;Rio de Janeiro;RJ;Militar;09. 61 a 65 anos
+729;Niterói;Rio de Janeiro;RJ;Funcionário Público;01. 18 a 24 anos
+730;Niterói;Rio de Janeiro;RJ;Funcionário Público;06. 46 a 50 anos
+731;Niterói;Rio de Janeiro;RJ;Empresário;08. 56 a 60 anos
+732;Niterói;Rio de Janeiro;RJ;Profissional Liberal;06. 46 a 50 anos
+733;Niterói;Rio de Janeiro;RJ;Assalariado;04. 36 a 40 anos
+734;Niterói;Rio de Janeiro;RJ;Autonômo;06. 46 a 50 anos
+735;Niterói;Rio de Janeiro;RJ;Profissional Liberal;06. 46 a 50 anos
+736;Niterói;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+737;Niterói;Rio de Janeiro;RJ;Profissional Liberal;05. 41 a 45 anos
+738;Niterói;Rio de Janeiro;RJ;Funcionário Público;09. 61 a 65 anos
+739;Niterói;Rio de Janeiro;RJ;Assalariado;06. 46 a 50 anos
+740;Niterói;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+741;Niterói;Rio de Janeiro;RJ;Funcionário Público;09. 61 a 65 anos
+742;Niterói;Rio de Janeiro;RJ;Assalariado;07. 51 a 55 anos
+743;Niterói;Rio de Janeiro;RJ;Empresário;03. 31 a 35 anos
+744;Niterói;Rio de Janeiro;RJ;Profissional Liberal;07. 51 a 55 anos
+745;Niterói;Rio de Janeiro;RJ;Assalariado;05. 41 a 45 anos
+746;Niterói;Rio de Janeiro;RJ;Profissional Liberal;06. 46 a 50 anos
+747;Niterói;Rio de Janeiro;RJ;Assalariado;06. 46 a 50 anos
+748;Niterói;Rio de Janeiro;RJ;Autonômo;02. 26 a 30 anos
+749;Niterói;Rio de Janeiro;RJ;Assalariado;02. 26 a 30 anos
+750;Niterói;Rio de Janeiro;RJ;Empresário;01. 18 a 24 anos
+751;Niterói;Rio de Janeiro;RJ;Funcionário Público;07. 51 a 55 anos
+752;Niterói;Rio de Janeiro;RJ;Profissional Liberal;06. 46 a 50 anos
+753;Niterói;Rio de Janeiro;RJ;Funcionário Público;07. 51 a 55 anos
+754;Niterói;Rio de Janeiro;RJ;Assalariado;09. 61 a 65 anos
+755;Niterói;Rio de Janeiro;RJ;Assalariado;06. 46 a 50 anos
+756;Niterói;Rio de Janeiro;RJ;Assalariado;02. 26 a 30 anos
+757;Niterói;Rio de Janeiro;RJ;Militar;06. 46 a 50 anos
+758;Niterói;Rio de Janeiro;RJ;Autonômo;05. 41 a 45 anos
+759;Niterói;Rio de Janeiro;RJ;Assalariado;03. 31 a 35 anos
+760;Niterói;Rio de Janeiro;RJ;Autonômo;02. 26 a 30 anos
+761;Niterói;Rio de Janeiro;RJ;Profissional Liberal;07. 51 a 55 anos
+762;Niterói;Rio de Janeiro;RJ;Empresário;01. 18 a 24 anos
+763;Niterói;Rio de Janeiro;RJ;Empresário;09. 61 a 65 anos
+764;Niterói;Rio de Janeiro;RJ;Assalariado;06. 46 a 50 anos
+765;Niterói;Rio de Janeiro;RJ;Militar;06. 46 a 50 anos
+766;Niterói;Rio de Janeiro;RJ;Autonômo;03. 31 a 35 anos
+767;Niterói;Rio de Janeiro;RJ;Funcionário Público;07. 51 a 55 anos
+768;Niterói;Rio de Janeiro;RJ;Empresário;08. 56 a 60 anos
+769;Niterói;Rio de Janeiro;RJ;Assalariado;05. 41 a 45 anos
+770;Niterói;Rio de Janeiro;RJ;Empresário;01. 18 a 24 anos
+771;Niterói;Rio de Janeiro;RJ;Profissional Liberal;02. 26 a 30 anos
+772;Niterói;Rio de Janeiro;RJ;Funcionário Público;06. 46 a 50 anos
+773;Niterói;Rio de Janeiro;RJ;Militar;02. 26 a 30 anos
+774;Niterói;Rio de Janeiro;RJ;Assalariado;06. 46 a 50 anos
+775;Niterói;Rio de Janeiro;RJ;Militar;05. 41 a 45 anos
+776;Niterói;Rio de Janeiro;RJ;Assalariado;06. 46 a 50 anos
+777;Niterói;Rio de Janeiro;RJ;Assalariado;02. 26 a 30 anos
+778;Niterói;Rio de Janeiro;RJ;Assalariado;05. 41 a 45 anos
+779;Niterói;Rio de Janeiro;RJ;Autonômo;01. 18 a 24 anos
+780;Niterói;Rio de Janeiro;RJ;Profissional Liberal;01. 18 a 24 anos
+781;Niterói;Rio de Janeiro;RJ;Militar;03. 31 a 35 anos
+782;Niterói;Rio de Janeiro;RJ;Empresário;06. 46 a 50 anos
+783;Niterói;Rio de Janeiro;RJ;Assalariado;02. 26 a 30 anos
+784;Niterói;Rio de Janeiro;RJ;Autonômo;06. 46 a 50 anos
+785;Niterói;Rio de Janeiro;RJ;Empresário;03. 31 a 35 anos
+786;Niterói;Rio de Janeiro;RJ;Profissional Liberal;08. 56 a 60 anos
+787;Niterói;Rio de Janeiro;RJ;Empresário;09. 61 a 65 anos
+788;Niterói;Rio de Janeiro;RJ;Militar;01. 18 a 24 anos
+789;Niterói;Rio de Janeiro;RJ;Autonômo;06. 46 a 50 anos
+790;Niterói;Rio de Janeiro;RJ;Empresário;01. 18 a 24 anos
+791;Niterói;Rio de Janeiro;RJ;Assalariado;06. 46 a 50 anos
+792;Niterói;Rio de Janeiro;RJ;Assalariado;03. 31 a 35 anos
+793;Niterói;Rio de Janeiro;RJ;Assalariado;06. 46 a 50 anos
+794;Niterói;Rio de Janeiro;RJ;Assalariado;03. 31 a 35 anos
+795;Niterói;Rio de Janeiro;RJ;Militar;05. 41 a 45 anos
+796;Niterói;Rio de Janeiro;RJ;Aposentado;10. Acima de 65 anos
+797;Niterói;Rio de Janeiro;RJ;Assalariado;03. 31 a 35 anos
+798;Niterói;Rio de Janeiro;RJ;Assalariado;07. 51 a 55 anos
+799;Niterói;Rio de Janeiro;RJ;Militar;09. 61 a 65 anos
+800;Niterói;Rio de Janeiro;RJ;Militar;05. 41 a 45 anos
+801;Curitiba;Paraná;PR;Autonômo;02. 26 a 30 anos
+802;Curitiba;Paraná;PR;Funcionário Público;08. 56 a 60 anos
+803;Curitiba;Paraná;PR;Militar;09. 61 a 65 anos
+804;Curitiba;Paraná;PR;Profissional Liberal;07. 51 a 55 anos
+805;Curitiba;Paraná;PR;Empresário;01. 18 a 24 anos
+806;Curitiba;Paraná;PR;Militar;02. 26 a 30 anos
+807;Curitiba;Paraná;PR;Profissional Liberal;07. 51 a 55 anos
+808;Curitiba;Paraná;PR;Assalariado;02. 26 a 30 anos
+809;Curitiba;Paraná;PR;Aposentado;10. Acima de 65 anos
+810;Curitiba;Paraná;PR;Aposentado;10. Acima de 65 anos
+811;Curitiba;Paraná;PR;Empresário;07. 51 a 55 anos
+812;Curitiba;Paraná;PR;Militar;02. 26 a 30 anos
+813;Curitiba;Paraná;PR;Empresário;04. 36 a 40 anos
+814;Curitiba;Paraná;PR;Militar;07. 51 a 55 anos
+815;Curitiba;Paraná;PR;Militar;02. 26 a 30 anos
+816;Curitiba;Paraná;PR;Empresário;09. 61 a 65 anos
+817;Curitiba;Paraná;PR;Militar;03. 31 a 35 anos
+818;Curitiba;Paraná;PR;Autonômo;01. 18 a 24 anos
+819;Curitiba;Paraná;PR;Militar;01. 18 a 24 anos
+820;Curitiba;Paraná;PR;Empresário;04. 36 a 40 anos
+821;Curitiba;Paraná;PR;Empresário;04. 36 a 40 anos
+822;Curitiba;Paraná;PR;Assalariado;09. 61 a 65 anos
+823;Curitiba;Paraná;PR;Profissional Liberal;05. 41 a 45 anos
+824;Curitiba;Paraná;PR;Assalariado;05. 41 a 45 anos
+825;Curitiba;Paraná;PR;Militar;04. 36 a 40 anos
+826;Curitiba;Paraná;PR;Funcionário Público;09. 61 a 65 anos
+827;Curitiba;Paraná;PR;Militar;05. 41 a 45 anos
+828;Curitiba;Paraná;PR;Aposentado;10. Acima de 65 anos
+829;Curitiba;Paraná;PR;Autonômo;06. 46 a 50 anos
+830;Curitiba;Paraná;PR;Funcionário Público;03. 31 a 35 anos
+831;Curitiba;Paraná;PR;Assalariado;01. 18 a 24 anos
+832;Curitiba;Paraná;PR;Funcionário Público;06. 46 a 50 anos
+833;Curitiba;Paraná;PR;Empresário;04. 36 a 40 anos
+834;Curitiba;Paraná;PR;Militar;03. 31 a 35 anos
+835;Curitiba;Paraná;PR;Militar;05. 41 a 45 anos
+836;Curitiba;Paraná;PR;Autonômo;09. 61 a 65 anos
+837;Curitiba;Paraná;PR;Autonômo;07. 51 a 55 anos
+838;Curitiba;Paraná;PR;Funcionário Público;08. 56 a 60 anos
+839;Curitiba;Paraná;PR;Aposentado;10. Acima de 65 anos
+840;Curitiba;Paraná;PR;Assalariado;05. 41 a 45 anos
+841;Curitiba;Paraná;PR;Assalariado;02. 26 a 30 anos
+842;Curitiba;Paraná;PR;Autonômo;02. 26 a 30 anos
+843;Curitiba;Paraná;PR;Profissional Liberal;01. 18 a 24 anos
+844;Curitiba;Paraná;PR;Funcionário Público;07. 51 a 55 anos
+845;Curitiba;Paraná;PR;Militar;06. 46 a 50 anos
+846;Curitiba;Paraná;PR;Funcionário Público;01. 18 a 24 anos
+847;Curitiba;Paraná;PR;Aposentado;10. Acima de 65 anos
+848;Curitiba;Paraná;PR;Funcionário Público;08. 56 a 60 anos
+849;Curitiba;Paraná;PR;Profissional Liberal;06. 46 a 50 anos
+850;Curitiba;Paraná;PR;Assalariado;04. 36 a 40 anos
+851;Curitiba;Paraná;PR;Empresário;08. 56 a 60 anos
+852;Curitiba;Paraná;PR;Aposentado;10. Acima de 65 anos
+853;Curitiba;Paraná;PR;Aposentado;10. Acima de 65 anos
+854;Curitiba;Paraná;PR;Militar;07. 51 a 55 anos
+855;Curitiba;Paraná;PR;Assalariado;04. 36 a 40 anos
+856;Curitiba;Paraná;PR;Assalariado;01. 18 a 24 anos
+857;Curitiba;Paraná;PR;Aposentado;10. Acima de 65 anos
+858;Curitiba;Paraná;PR;Funcionário Público;09. 61 a 65 anos
+859;Curitiba;Paraná;PR;Aposentado;10. Acima de 65 anos
+860;Curitiba;Paraná;PR;Assalariado;02. 26 a 30 anos
+861;Curitiba;Paraná;PR;Empresário;07. 51 a 55 anos
+862;Curitiba;Paraná;PR;Autonômo;01. 18 a 24 anos
+863;Curitiba;Paraná;PR;Profissional Liberal;04. 36 a 40 anos
+864;Curitiba;Paraná;PR;Militar;01. 18 a 24 anos
+865;Curitiba;Paraná;PR;Aposentado;10. Acima de 65 anos
+866;Curitiba;Paraná;PR;Funcionário Público;02. 26 a 30 anos
+867;Curitiba;Paraná;PR;Profissional Liberal;05. 41 a 45 anos
+868;Curitiba;Paraná;PR;Funcionário Público;04. 36 a 40 anos
+869;Curitiba;Paraná;PR;Empresário;02. 26 a 30 anos
+870;Curitiba;Paraná;PR;Assalariado;03. 31 a 35 anos
+871;Curitiba;Paraná;PR;Profissional Liberal;02. 26 a 30 anos
+872;Curitiba;Paraná;PR;Profissional Liberal;04. 36 a 40 anos
+873;Curitiba;Paraná;PR;Assalariado;08. 56 a 60 anos
+874;Curitiba;Paraná;PR;Empresário;06. 46 a 50 anos
+875;Curitiba;Paraná;PR;Aposentado;10. Acima de 65 anos
+876;Curitiba;Paraná;PR;Profissional Liberal;05. 41 a 45 anos
+877;Curitiba;Paraná;PR;Militar;01. 18 a 24 anos
+878;Curitiba;Paraná;PR;Empresário;02. 26 a 30 anos
+879;Curitiba;Paraná;PR;Assalariado;03. 31 a 35 anos
+880;Curitiba;Paraná;PR;Funcionário Público;08. 56 a 60 anos
+881;Curitiba;Paraná;PR;Funcionário Público;06. 46 a 50 anos
+882;Curitiba;Paraná;PR;Funcionário Público;07. 51 a 55 anos
+883;Curitiba;Paraná;PR;Militar;04. 36 a 40 anos
+884;Curitiba;Paraná;PR;Empresário;04. 36 a 40 anos
+885;Curitiba;Paraná;PR;Assalariado;07. 51 a 55 anos
+886;Curitiba;Paraná;PR;Profissional Liberal;06. 46 a 50 anos
+887;Curitiba;Paraná;PR;Funcionário Público;02. 26 a 30 anos
+888;Curitiba;Paraná;PR;Empresário;08. 56 a 60 anos
+889;Curitiba;Paraná;PR;Militar;09. 61 a 65 anos
+890;Curitiba;Paraná;PR;Profissional Liberal;06. 46 a 50 anos
+891;Curitiba;Paraná;PR;Assalariado;06. 46 a 50 anos
+892;Curitiba;Paraná;PR;Assalariado;01. 18 a 24 anos
+893;Curitiba;Paraná;PR;Aposentado;10. Acima de 65 anos
+894;Curitiba;Paraná;PR;Militar;04. 36 a 40 anos
+895;Curitiba;Paraná;PR;Militar;07. 51 a 55 anos
+896;Curitiba;Paraná;PR;Militar;03. 31 a 35 anos
+897;Curitiba;Paraná;PR;Empresário;07. 51 a 55 anos
+898;Curitiba;Paraná;PR;Assalariado;06. 46 a 50 anos
+899;Curitiba;Paraná;PR;Assalariado;04. 36 a 40 anos
+900;Curitiba;Paraná;PR;Funcionário Público;09. 61 a 65 anos
+901;São José dos Pinhais;Paraná;PR;Assalariado;08. 56 a 60 anos
+902;São José dos Pinhais;Paraná;PR;Funcionário Público;07. 51 a 55 anos
+903;São José dos Pinhais;Paraná;PR;Profissional Liberal;02. 26 a 30 anos
+904;São José dos Pinhais;Paraná;PR;Assalariado;06. 46 a 50 anos
+905;São José dos Pinhais;Paraná;PR;Assalariado;03. 31 a 35 anos
+906;São José dos Pinhais;Paraná;PR;Funcionário Público;03. 31 a 35 anos
+907;São José dos Pinhais;Paraná;PR;Militar;01. 18 a 24 anos
+908;São José dos Pinhais;Paraná;PR;Funcionário Público;09. 61 a 65 anos
+909;São José dos Pinhais;Paraná;PR;Assalariado;03. 31 a 35 anos
+910;São José dos Pinhais;Paraná;PR;Empresário;06. 46 a 50 anos
+911;São José dos Pinhais;Paraná;PR;Assalariado;06. 46 a 50 anos
+912;São José dos Pinhais;Paraná;PR;Profissional Liberal;04. 36 a 40 anos
+913;São José dos Pinhais;Paraná;PR;Empresário;06. 46 a 50 anos
+914;São José dos Pinhais;Paraná;PR;Aposentado;10. Acima de 65 anos
+915;São José dos Pinhais;Paraná;PR;Autonômo;05. 41 a 45 anos
+916;São José dos Pinhais;Paraná;PR;Funcionário Público;02. 26 a 30 anos
+917;São José dos Pinhais;Paraná;PR;Empresário;09. 61 a 65 anos
+918;São José dos Pinhais;Paraná;PR;Aposentado;10. Acima de 65 anos
+919;São José dos Pinhais;Paraná;PR;Profissional Liberal;09. 61 a 65 anos
+920;São José dos Pinhais;Paraná;PR;Profissional Liberal;05. 41 a 45 anos
+921;São José dos Pinhais;Paraná;PR;Militar;08. 56 a 60 anos
+922;São José dos Pinhais;Paraná;PR;Funcionário Público;06. 46 a 50 anos
+923;São José dos Pinhais;Paraná;PR;Aposentado;10. Acima de 65 anos
+924;São José dos Pinhais;Paraná;PR;Autonômo;03. 31 a 35 anos
+925;São José dos Pinhais;Paraná;PR;Assalariado;03. 31 a 35 anos
+926;São José dos Pinhais;Paraná;PR;Autonômo;06. 46 a 50 anos
+927;São José dos Pinhais;Paraná;PR;Autonômo;05. 41 a 45 anos
+928;São José dos Pinhais;Paraná;PR;Profissional Liberal;04. 36 a 40 anos
+929;São José dos Pinhais;Paraná;PR;Autonômo;03. 31 a 35 anos
+930;São José dos Pinhais;Paraná;PR;Empresário;07. 51 a 55 anos
+931;São José dos Pinhais;Paraná;PR;Empresário;05. 41 a 45 anos
+932;São José dos Pinhais;Paraná;PR;Assalariado;03. 31 a 35 anos
+933;São José dos Pinhais;Paraná;PR;Empresário;07. 51 a 55 anos
+934;São José dos Pinhais;Paraná;PR;Autonômo;02. 26 a 30 anos
+935;São José dos Pinhais;Paraná;PR;Autonômo;06. 46 a 50 anos
+936;São José dos Pinhais;Paraná;PR;Autonômo;07. 51 a 55 anos
+937;São José dos Pinhais;Paraná;PR;Militar;03. 31 a 35 anos
+938;São José dos Pinhais;Paraná;PR;Empresário;04. 36 a 40 anos
+939;São José dos Pinhais;Paraná;PR;Empresário;01. 18 a 24 anos
+940;São José dos Pinhais;Paraná;PR;Funcionário Público;06. 46 a 50 anos
+941;São José dos Pinhais;Paraná;PR;Empresário;04. 36 a 40 anos
+942;São José dos Pinhais;Paraná;PR;Aposentado;10. Acima de 65 anos
+943;São José dos Pinhais;Paraná;PR;Aposentado;10. Acima de 65 anos
+944;São José dos Pinhais;Paraná;PR;Assalariado;03. 31 a 35 anos
+945;São José dos Pinhais;Paraná;PR;Empresário;03. 31 a 35 anos
+946;São José dos Pinhais;Paraná;PR;Autonômo;01. 18 a 24 anos
+947;São José dos Pinhais;Paraná;PR;Militar;02. 26 a 30 anos
+948;São José dos Pinhais;Paraná;PR;Empresário;05. 41 a 45 anos
+949;São José dos Pinhais;Paraná;PR;Assalariado;06. 46 a 50 anos
+950;São José dos Pinhais;Paraná;PR;Empresário;05. 41 a 45 anos
+951;São José dos Pinhais;Paraná;PR;Aposentado;10. Acima de 65 anos
+952;São José dos Pinhais;Paraná;PR;Funcionário Público;07. 51 a 55 anos
+953;São José dos Pinhais;Paraná;PR;Assalariado;01. 18 a 24 anos
+954;São José dos Pinhais;Paraná;PR;Aposentado;10. Acima de 65 anos
+955;São José dos Pinhais;Paraná;PR;Empresário;05. 41 a 45 anos
+956;São José dos Pinhais;Paraná;PR;Militar;09. 61 a 65 anos
+957;São José dos Pinhais;Paraná;PR;Militar;07. 51 a 55 anos
+958;São José dos Pinhais;Paraná;PR;Aposentado;10. Acima de 65 anos
+959;São José dos Pinhais;Paraná;PR;Assalariado;04. 36 a 40 anos
+960;São José dos Pinhais;Paraná;PR;Autonômo;04. 36 a 40 anos
+961;São José dos Pinhais;Paraná;PR;Empresário;01. 18 a 24 anos
+962;São José dos Pinhais;Paraná;PR;Profissional Liberal;01. 18 a 24 anos
+963;São José dos Pinhais;Paraná;PR;Militar;05. 41 a 45 anos
+964;São José dos Pinhais;Paraná;PR;Funcionário Público;09. 61 a 65 anos
+965;São José dos Pinhais;Paraná;PR;Funcionário Público;09. 61 a 65 anos
+966;São José dos Pinhais;Paraná;PR;Autonômo;04. 36 a 40 anos
+967;São José dos Pinhais;Paraná;PR;Aposentado;10. Acima de 65 anos
+968;São José dos Pinhais;Paraná;PR;Assalariado;05. 41 a 45 anos
+969;São José dos Pinhais;Paraná;PR;Funcionário Público;02. 26 a 30 anos
+970;São José dos Pinhais;Paraná;PR;Funcionário Público;06. 46 a 50 anos
+971;Colombo;Paraná;PR;Assalariado;06. 46 a 50 anos
+972;Pinhais;Paraná;PR;Autonômo;06. 46 a 50 anos
+973;Pinhais;Paraná;PR;Assalariado;03. 31 a 35 anos
+974;Pinhais;Paraná;PR;Assalariado;08. 56 a 60 anos
+975;Colombo;Paraná;PR;Assalariado;04. 36 a 40 anos
+976;Pinhais;Paraná;PR;Assalariado;06. 46 a 50 anos
+977;Pinhais;Paraná;PR;Profissional Liberal;09. 61 a 65 anos
+978;Pinhais;Paraná;PR;Autonômo;01. 18 a 24 anos
+979;Pinhais;Paraná;PR;Militar;05. 41 a 45 anos
+980;Colombo;Paraná;PR;Assalariado;04. 36 a 40 anos
+981;Pinhais;Paraná;PR;Autonômo;02. 26 a 30 anos
+982;Pinhais;Paraná;PR;Assalariado;07. 51 a 55 anos
+983;Colombo;Paraná;PR;Assalariado;01. 18 a 24 anos
+984;Colombo;Paraná;PR;Assalariado;09. 61 a 65 anos
+985;Pinhais;Paraná;PR;Funcionário Público;07. 51 a 55 anos
+986;Colombo;Paraná;PR;Assalariado;05. 41 a 45 anos
+987;Pinhais;Paraná;PR;Assalariado;03. 31 a 35 anos
+988;Colombo;Paraná;PR;Assalariado;09. 61 a 65 anos
+989;Pinhais;Paraná;PR;Empresário;06. 46 a 50 anos
+990;Pinhais;Paraná;PR;Militar;07. 51 a 55 anos
+991;Pinhais;Paraná;PR;Aposentado;10. Acima de 65 anos
+992;Colombo;Paraná;PR;Assalariado;02. 26 a 30 anos
+993;Pinhais;Paraná;PR;Profissional Liberal;09. 61 a 65 anos
+994;Pinhais;Paraná;PR;Autonômo;04. 36 a 40 anos
+995;Colombo;Paraná;PR;Assalariado;07. 51 a 55 anos
+996;Pinhais;Paraná;PR;Militar;06. 46 a 50 anos
+997;Pinhais;Paraná;PR;Militar;06. 46 a 50 anos
+998;Pinhais;Paraná;PR;Profissional Liberal;03. 31 a 35 anos
+999;Pinhais;Paraná;PR;Assalariado;08. 56 a 60 anos
+1000;Colombo;Paraná;PR;Autonômo;05. 41 a 45 anos
+1001;Pinhais;Paraná;PR;Assalariado;09. 61 a 65 anos
+1002;Pinhais;Paraná;PR;Assalariado;05. 41 a 45 anos
+1003;Colombo;Paraná;PR;Assalariado;07. 51 a 55 anos
+1004;Colombo;Paraná;PR;Assalariado;09. 61 a 65 anos
+1005;Pinhais;Paraná;PR;Funcionário Público;09. 61 a 65 anos
+1006;Colombo;Paraná;PR;Empresário;07. 51 a 55 anos
+1007;Colombo;Paraná;PR;Profissional Liberal;02. 26 a 30 anos
+1008;Colombo;Paraná;PR;Autonômo;09. 61 a 65 anos
+1009;Pinhais;Paraná;PR;Empresário;01. 18 a 24 anos
+1010;Colombo;Paraná;PR;Militar;06. 46 a 50 anos
+1011;Pinhais;Paraná;PR;Militar;01. 18 a 24 anos
+1012;Pinhais;Paraná;PR;Empresário;02. 26 a 30 anos
+1013;Colombo;Paraná;PR;Empresário;05. 41 a 45 anos
+1014;Colombo;Paraná;PR;Assalariado;04. 36 a 40 anos
+1015;Pinhais;Paraná;PR;Aposentado;10. Acima de 65 anos
+1016;Colombo;Paraná;PR;Assalariado;07. 51 a 55 anos
+1017;Colombo;Paraná;PR;Assalariado;01. 18 a 24 anos
+1018;Colombo;Paraná;PR;Assalariado;01. 18 a 24 anos
+1019;Colombo;Paraná;PR;Funcionário Público;06. 46 a 50 anos
+1020;Pinhais;Paraná;PR;Empresário;03. 31 a 35 anos
+1021;Joinville;Santa Catarina;SC;Empresário;02. 26 a 30 anos
+1022;Blumenau;Santa Catarina;SC;Militar;03. 31 a 35 anos
+1023;Barra Velha;Santa Catarina;SC;Assalariado;05. 41 a 45 anos
+1024;Joinville;Santa Catarina;SC;Empresário;01. 18 a 24 anos
+1025;Brusque ;Santa Catarina;SC;Empresário;07. 51 a 55 anos
+1026;Blumenau;Santa Catarina;SC;Empresário;06. 46 a 50 anos
+1027;Barra Velha;Santa Catarina;SC;Autonômo;05. 41 a 45 anos
+1028;Blumenau;Santa Catarina;SC;Funcionário Público;05. 41 a 45 anos
+1029;Blumenau;Santa Catarina;SC;Autonômo;04. 36 a 40 anos
+1030;Blumenau;Santa Catarina;SC;Assalariado;09. 61 a 65 anos
+1031;Blumenau;Santa Catarina;SC;Militar;05. 41 a 45 anos
+1032;Brusque ;Santa Catarina;SC;Assalariado;09. 61 a 65 anos
+1033;Blumenau;Santa Catarina;SC;Assalariado;06. 46 a 50 anos
+1034;Barra Velha;Santa Catarina;SC;Assalariado;06. 46 a 50 anos
+1035;Blumenau;Santa Catarina;SC;Funcionário Público;04. 36 a 40 anos
+1036;Barra Velha;Santa Catarina;SC;Funcionário Público;06. 46 a 50 anos
+1037;Blumenau;Santa Catarina;SC;Assalariado;07. 51 a 55 anos
+1038;Joinville;Santa Catarina;SC;Empresário;09. 61 a 65 anos
+1039;Blumenau;Santa Catarina;SC;Assalariado;05. 41 a 45 anos
+1040;Blumenau;Santa Catarina;SC;Assalariado;01. 18 a 24 anos
+1041;Joinville;Santa Catarina;SC;Autonômo;03. 31 a 35 anos
+1042;Barra Velha;Santa Catarina;SC;Profissional Liberal;09. 61 a 65 anos
+1043;Blumenau;Santa Catarina;SC;Assalariado;03. 31 a 35 anos
+1044;Blumenau;Santa Catarina;SC;Militar;06. 46 a 50 anos
+1045;Brusque ;Santa Catarina;SC;Assalariado;08. 56 a 60 anos
+1046;Barra Velha;Santa Catarina;SC;Assalariado;09. 61 a 65 anos
+1047;Barra Velha;Santa Catarina;SC;Profissional Liberal;06. 46 a 50 anos
+1048;Blumenau;Santa Catarina;SC;Assalariado;02. 26 a 30 anos
+1049;Barra Velha;Santa Catarina;SC;Funcionário Público;05. 41 a 45 anos
+1050;Barra Velha;Santa Catarina;SC;Assalariado;04. 36 a 40 anos
+1051;Blumenau;Santa Catarina;SC;Assalariado;03. 31 a 35 anos
+1052;Blumenau;Santa Catarina;SC;Assalariado;05. 41 a 45 anos
+1053;Joinville;Santa Catarina;SC;Autonômo;07. 51 a 55 anos
+1054;Joinville;Santa Catarina;SC;Aposentado;10. Acima de 65 anos
+1055;Joinville;Santa Catarina;SC;Funcionário Público;06. 46 a 50 anos
+1056;Barra Velha;Santa Catarina;SC;Assalariado;03. 31 a 35 anos
+1057;Blumenau;Santa Catarina;SC;Militar;08. 56 a 60 anos
+1058;Brusque ;Santa Catarina;SC;Autonômo;03. 31 a 35 anos
+1059;Barra Velha;Santa Catarina;SC;Assalariado;08. 56 a 60 anos
+1060;Joinville;Santa Catarina;SC;Assalariado;04. 36 a 40 anos
+1061;Joinville;Santa Catarina;SC;Profissional Liberal;03. 31 a 35 anos
+1062;Blumenau;Santa Catarina;SC;Assalariado;06. 46 a 50 anos
+1063;Joinville;Santa Catarina;SC;Aposentado;10. Acima de 65 anos
+1064;Brusque ;Santa Catarina;SC;Militar;07. 51 a 55 anos
+1065;Brusque ;Santa Catarina;SC;Assalariado;02. 26 a 30 anos
+1066;Brusque ;Santa Catarina;SC;Militar;02. 26 a 30 anos
+1067;Joinville;Santa Catarina;SC;Assalariado;06. 46 a 50 anos
+1068;Blumenau;Santa Catarina;SC;Funcionário Público;03. 31 a 35 anos
+1069;Blumenau;Santa Catarina;SC;Militar;08. 56 a 60 anos
+1070;Joinville;Santa Catarina;SC;Assalariado;08. 56 a 60 anos
+1071;Blumenau;Santa Catarina;SC;Militar;09. 61 a 65 anos
+1072;Barra Velha;Santa Catarina;SC;Autonômo;03. 31 a 35 anos
+1073;Brusque ;Santa Catarina;SC;Empresário;07. 51 a 55 anos
+1074;Joinville;Santa Catarina;SC;Empresário;01. 18 a 24 anos
+1075;Barra Velha;Santa Catarina;SC;Funcionário Público;01. 18 a 24 anos
+1076;Blumenau;Santa Catarina;SC;Assalariado;03. 31 a 35 anos
+1077;Brusque ;Santa Catarina;SC;Empresário;03. 31 a 35 anos
+1078;Blumenau;Santa Catarina;SC;Assalariado;01. 18 a 24 anos
+1079;Brusque ;Santa Catarina;SC;Militar;07. 51 a 55 anos
+1080;Brusque ;Santa Catarina;SC;Empresário;05. 41 a 45 anos
+1081;Joinville;Santa Catarina;SC;Empresário;04. 36 a 40 anos
+1082;Brusque ;Santa Catarina;SC;Profissional Liberal;03. 31 a 35 anos
+1083;Joinville;Santa Catarina;SC;Funcionário Público;04. 36 a 40 anos
+1084;Joinville;Santa Catarina;SC;Assalariado;08. 56 a 60 anos
+1085;Blumenau;Santa Catarina;SC;Assalariado;09. 61 a 65 anos
+1086;Blumenau;Santa Catarina;SC;Assalariado;09. 61 a 65 anos
+1087;Joinville;Santa Catarina;SC;Funcionário Público;09. 61 a 65 anos
+1088;Blumenau;Santa Catarina;SC;Autonômo;04. 36 a 40 anos
+1089;Barra Velha;Santa Catarina;SC;Autonômo;06. 46 a 50 anos
+1090;Blumenau;Santa Catarina;SC;Empresário;04. 36 a 40 anos
+1091;Blumenau;Santa Catarina;SC;Empresário;07. 51 a 55 anos
+1092;Brusque ;Santa Catarina;SC;Funcionário Público;07. 51 a 55 anos
+1093;Joinville;Santa Catarina;SC;Assalariado;02. 26 a 30 anos
+1094;Brusque ;Santa Catarina;SC;Profissional Liberal;06. 46 a 50 anos
+1095;Barra Velha;Santa Catarina;SC;Assalariado;03. 31 a 35 anos
+1096;Barra Velha;Santa Catarina;SC;Funcionário Público;03. 31 a 35 anos
+1097;Joinville;Santa Catarina;SC;Profissional Liberal;08. 56 a 60 anos
+1098;Barra Velha;Santa Catarina;SC;Militar;01. 18 a 24 anos
+1099;Brusque ;Santa Catarina;SC;Militar;03. 31 a 35 anos
+1100;Brusque ;Santa Catarina;SC;Autonômo;07. 51 a 55 anos
+1101;Brusque ;Santa Catarina;SC;Empresário;04. 36 a 40 anos
+1102;Blumenau;Santa Catarina;SC;Profissional Liberal;03. 31 a 35 anos
+1103;Joinville;Santa Catarina;SC;Empresário;08. 56 a 60 anos
+1104;Brusque ;Santa Catarina;SC;Militar;02. 26 a 30 anos
+1105;Blumenau;Santa Catarina;SC;Militar;02. 26 a 30 anos
+1106;Barra Velha;Santa Catarina;SC;Assalariado;03. 31 a 35 anos
+1107;Barra Velha;Santa Catarina;SC;Militar;08. 56 a 60 anos
+1108;Brusque ;Santa Catarina;SC;Autonômo;03. 31 a 35 anos
+1109;Barra Velha;Santa Catarina;SC;Funcionário Público;02. 26 a 30 anos
+1110;Brusque ;Santa Catarina;SC;Funcionário Público;01. 18 a 24 anos
+1111;Barra Velha;Santa Catarina;SC;Aposentado;10. Acima de 65 anos
+1112;Joinville;Santa Catarina;SC;Militar;01. 18 a 24 anos
+1113;Blumenau;Santa Catarina;SC;Empresário;07. 51 a 55 anos
+1114;Brusque ;Santa Catarina;SC;Funcionário Público;02. 26 a 30 anos
+1115;Barra Velha;Santa Catarina;SC;Funcionário Público;06. 46 a 50 anos
+1116;Barra Velha;Santa Catarina;SC;Empresário;04. 36 a 40 anos
+1117;Joinville;Santa Catarina;SC;Funcionário Público;04. 36 a 40 anos
+1118;Blumenau;Santa Catarina;SC;Assalariado;07. 51 a 55 anos
+1119;Brusque ;Santa Catarina;SC;Autonômo;06. 46 a 50 anos
+1120;Blumenau;Santa Catarina;SC;Profissional Liberal;03. 31 a 35 anos
+1121;Brusque ;Santa Catarina;SC;Profissional Liberal;06. 46 a 50 anos
+1122;Joinville;Santa Catarina;SC;Autonômo;01. 18 a 24 anos
+1123;Barra Velha;Santa Catarina;SC;Empresário;04. 36 a 40 anos
+1124;Joinville;Santa Catarina;SC;Assalariado;07. 51 a 55 anos
+1125;Brusque ;Santa Catarina;SC;Assalariado;08. 56 a 60 anos
+1126;Blumenau;Santa Catarina;SC;Funcionário Público;03. 31 a 35 anos
+1127;Brusque ;Santa Catarina;SC;Militar;06. 46 a 50 anos
+1128;Barra Velha;Santa Catarina;SC;Assalariado;01. 18 a 24 anos
+1129;Barra Velha;Santa Catarina;SC;Empresário;03. 31 a 35 anos
+1130;Joinville;Santa Catarina;SC;Assalariado;09. 61 a 65 anos
+1131;Joinville;Santa Catarina;SC;Empresário;07. 51 a 55 anos
+1132;Joinville;Santa Catarina;SC;Funcionário Público;03. 31 a 35 anos
+1133;Brusque ;Santa Catarina;SC;Assalariado;03. 31 a 35 anos
+1134;Blumenau;Santa Catarina;SC;Assalariado;05. 41 a 45 anos
+1135;Brusque ;Santa Catarina;SC;Assalariado;03. 31 a 35 anos
+1136;Brusque ;Santa Catarina;SC;Empresário;03. 31 a 35 anos
+1137;Joinville;Santa Catarina;SC;Profissional Liberal;05. 41 a 45 anos
+1138;Joinville;Santa Catarina;SC;Autonômo;06. 46 a 50 anos
+1139;Brusque ;Santa Catarina;SC;Assalariado;03. 31 a 35 anos
+1140;Blumenau;Santa Catarina;SC;Assalariado;07. 51 a 55 anos
+1141;Barra Velha;Santa Catarina;SC;Assalariado;07. 51 a 55 anos
+1142;Joinville;Santa Catarina;SC;Profissional Liberal;03. 31 a 35 anos
+1143;Blumenau;Santa Catarina;SC;Empresário;05. 41 a 45 anos
+1144;Joinville;Santa Catarina;SC;Assalariado;04. 36 a 40 anos
+1145;Barra Velha;Santa Catarina;SC;Profissional Liberal;01. 18 a 24 anos
+1146;Joinville;Santa Catarina;SC;Militar;01. 18 a 24 anos
+1147;Brusque ;Santa Catarina;SC;Militar;02. 26 a 30 anos
+1148;Barra Velha;Santa Catarina;SC;Funcionário Público;03. 31 a 35 anos
+1149;Blumenau;Santa Catarina;SC;Profissional Liberal;08. 56 a 60 anos
+1150;Brusque ;Santa Catarina;SC;Autonômo;02. 26 a 30 anos
+1151;Blumenau;Santa Catarina;SC;Assalariado;08. 56 a 60 anos
+1152;Barra Velha;Santa Catarina;SC;Autonômo;03. 31 a 35 anos
+1153;Joinville;Santa Catarina;SC;Autonômo;01. 18 a 24 anos
+1154;Blumenau;Santa Catarina;SC;Empresário;02. 26 a 30 anos
+1155;Brusque ;Santa Catarina;SC;Assalariado;07. 51 a 55 anos
+1156;Brusque ;Santa Catarina;SC;Autonômo;09. 61 a 65 anos
+1157;Joinville;Santa Catarina;SC;Empresário;08. 56 a 60 anos
+1158;Brusque ;Santa Catarina;SC;Empresário;06. 46 a 50 anos
+1159;Barra Velha;Santa Catarina;SC;Profissional Liberal;07. 51 a 55 anos
+1160;Barra Velha;Santa Catarina;SC;Autonômo;03. 31 a 35 anos
+1161;Joinville;Santa Catarina;SC;Militar;04. 36 a 40 anos
+1162;Barra Velha;Santa Catarina;SC;Aposentado;10. Acima de 65 anos
+1163;Joinville;Santa Catarina;SC;Assalariado;09. 61 a 65 anos
+1164;Joinville;Santa Catarina;SC;Empresário;02. 26 a 30 anos
+1165;Brusque ;Santa Catarina;SC;Funcionário Público;03. 31 a 35 anos
+1166;Joinville;Santa Catarina;SC;Assalariado;08. 56 a 60 anos
+1167;Barra Velha;Santa Catarina;SC;Assalariado;03. 31 a 35 anos
+1168;Barra Velha;Santa Catarina;SC;Assalariado;06. 46 a 50 anos
+1169;Barra Velha;Santa Catarina;SC;Militar;01. 18 a 24 anos
+1170;Joinville;Santa Catarina;SC;Militar;06. 46 a 50 anos
+1171;Blumenau;Santa Catarina;SC;Assalariado;05. 41 a 45 anos
+1172;Joinville;Santa Catarina;SC;Assalariado;06. 46 a 50 anos
+1173;Brusque ;Santa Catarina;SC;Militar;02. 26 a 30 anos
+1174;Joinville;Santa Catarina;SC;Autonômo;02. 26 a 30 anos
+1175;Brusque ;Santa Catarina;SC;Aposentado;10. Acima de 65 anos
+1176;Joinville;Santa Catarina;SC;Empresário;03. 31 a 35 anos
+1177;Brusque ;Santa Catarina;SC;Assalariado;05. 41 a 45 anos
+1178;Barra Velha;Santa Catarina;SC;Funcionário Público;03. 31 a 35 anos
+1179;Joinville;Santa Catarina;SC;Funcionário Público;03. 31 a 35 anos
+1180;Barra Velha;Santa Catarina;SC;Assalariado;06. 46 a 50 anos
+1181;Blumenau;Santa Catarina;SC;Aposentado;10. Acima de 65 anos
+1182;Brusque ;Santa Catarina;SC;Funcionário Público;06. 46 a 50 anos
+1183;Brusque ;Santa Catarina;SC;Militar;08. 56 a 60 anos
+1184;Brusque ;Santa Catarina;SC;Autonômo;04. 36 a 40 anos
+1185;Brusque ;Santa Catarina;SC;Assalariado;03. 31 a 35 anos
+1186;Brusque ;Santa Catarina;SC;Aposentado;10. Acima de 65 anos
+1187;Brusque ;Santa Catarina;SC;Empresário;03. 31 a 35 anos
+1188;Joinville;Santa Catarina;SC;Autonômo;02. 26 a 30 anos
+1189;Blumenau;Santa Catarina;SC;Aposentado;10. Acima de 65 anos
+1190;Barra Velha;Santa Catarina;SC;Empresário;07. 51 a 55 anos
+1191;Blumenau;Santa Catarina;SC;Militar;07. 51 a 55 anos
+1192;Brusque ;Santa Catarina;SC;Militar;04. 36 a 40 anos
+1193;Joinville;Santa Catarina;SC;Profissional Liberal;05. 41 a 45 anos
+1194;Barra Velha;Santa Catarina;SC;Autonômo;04. 36 a 40 anos
+1195;Joinville;Santa Catarina;SC;Assalariado;08. 56 a 60 anos
+1196;Barra Velha;Santa Catarina;SC;Militar;06. 46 a 50 anos
+1197;Joinville;Santa Catarina;SC;Assalariado;09. 61 a 65 anos
+1198;Joinville;Santa Catarina;SC;Empresário;09. 61 a 65 anos
+1199;Joinville;Santa Catarina;SC;Assalariado;01. 18 a 24 anos
+1200;Barra Velha;Santa Catarina;SC;Autonômo;09. 61 a 65 anos
+1201;Barra Velha;Santa Catarina;SC;Autonômo;05. 41 a 45 anos
+1202;Joinville;Santa Catarina;SC;Funcionário Público;05. 41 a 45 anos
+1203;Blumenau;Santa Catarina;SC;Autonômo;02. 26 a 30 anos
+1204;Joinville;Santa Catarina;SC;Militar;02. 26 a 30 anos
+1205;Blumenau;Santa Catarina;SC;Aposentado;10. Acima de 65 anos
+1206;Barra Velha;Santa Catarina;SC;Autonômo;01. 18 a 24 anos
+1207;Joinville;Santa Catarina;SC;Assalariado;04. 36 a 40 anos
+1208;Brusque ;Santa Catarina;SC;Assalariado;08. 56 a 60 anos
+1209;Joinville;Santa Catarina;SC;Autonômo;06. 46 a 50 anos
+1210;Brusque ;Santa Catarina;SC;Assalariado;03. 31 a 35 anos
+1211;Brusque ;Santa Catarina;SC;Assalariado;04. 36 a 40 anos
+1212;Joinville;Santa Catarina;SC;Militar;03. 31 a 35 anos
+1213;Joinville;Santa Catarina;SC;Funcionário Público;01. 18 a 24 anos
+1214;Joinville;Santa Catarina;SC;Aposentado;10. Acima de 65 anos
+1215;Brusque ;Santa Catarina;SC;Aposentado;10. Acima de 65 anos
+1216;Blumenau;Santa Catarina;SC;Profissional Liberal;09. 61 a 65 anos
+1217;Brusque ;Santa Catarina;SC;Autonômo;03. 31 a 35 anos
+1218;Brusque ;Santa Catarina;SC;Profissional Liberal;02. 26 a 30 anos
+1219;Blumenau;Santa Catarina;SC;Funcionário Público;02. 26 a 30 anos
+1220;Barra Velha;Santa Catarina;SC;Militar;07. 51 a 55 anos
+1221;Blumenau;Santa Catarina;SC;Militar;03. 31 a 35 anos
+1222;Brusque ;Santa Catarina;SC;Profissional Liberal;01. 18 a 24 anos
+1223;Joinville;Santa Catarina;SC;Assalariado;09. 61 a 65 anos
+1224;Brusque ;Santa Catarina;SC;Aposentado;10. Acima de 65 anos
+1225;Brusque ;Santa Catarina;SC;Autonômo;09. 61 a 65 anos
+1226;Blumenau;Santa Catarina;SC;Assalariado;02. 26 a 30 anos
+1227;Joinville;Santa Catarina;SC;Profissional Liberal;06. 46 a 50 anos
+1228;Barra Velha;Santa Catarina;SC;Profissional Liberal;08. 56 a 60 anos
+1229;Blumenau;Santa Catarina;SC;Autonômo;07. 51 a 55 anos
+1230;Barra Velha;Santa Catarina;SC;Empresário;02. 26 a 30 anos
+1231;Brusque ;Santa Catarina;SC;Profissional Liberal;07. 51 a 55 anos
+1232;Blumenau;Santa Catarina;SC;Funcionário Público;07. 51 a 55 anos
+1233;Blumenau;Santa Catarina;SC;Profissional Liberal;03. 31 a 35 anos
+1234;Brusque ;Santa Catarina;SC;Funcionário Público;01. 18 a 24 anos
+1235;Blumenau;Santa Catarina;SC;Aposentado;10. Acima de 65 anos
+1236;Blumenau;Santa Catarina;SC;Aposentado;10. Acima de 65 anos
+1237;Joinville;Santa Catarina;SC;Militar;03. 31 a 35 anos
+1238;Brusque ;Santa Catarina;SC;Empresário;03. 31 a 35 anos
+1239;Joinville;Santa Catarina;SC;Profissional Liberal;09. 61 a 65 anos
+1240;Barra Velha;Santa Catarina;SC;Profissional Liberal;03. 31 a 35 anos
+1241;Joinville;Santa Catarina;SC;Autonômo;03. 31 a 35 anos
+1242;Barra Velha;Santa Catarina;SC;Aposentado;10. Acima de 65 anos
+1243;Brusque ;Santa Catarina;SC;Assalariado;03. 31 a 35 anos
+1244;Barra Velha;Santa Catarina;SC;Assalariado;03. 31 a 35 anos
+1245;Barra Velha;Santa Catarina;SC;Funcionário Público;04. 36 a 40 anos
+1246;Joinville;Santa Catarina;SC;Assalariado;03. 31 a 35 anos
+1247;Brusque ;Santa Catarina;SC;Profissional Liberal;09. 61 a 65 anos
+1248;Blumenau;Santa Catarina;SC;Assalariado;01. 18 a 24 anos
+1249;Barra Velha;Santa Catarina;SC;Assalariado;05. 41 a 45 anos
+1250;Brusque ;Santa Catarina;SC;Profissional Liberal;09. 61 a 65 anos
+1251;Blumenau;Santa Catarina;SC;Autonômo;08. 56 a 60 anos
+1252;Barra Velha;Santa Catarina;SC;Militar;08. 56 a 60 anos
+1253;Blumenau;Santa Catarina;SC;Autonômo;02. 26 a 30 anos
+1254;Blumenau;Santa Catarina;SC;Profissional Liberal;05. 41 a 45 anos
+1255;Joinville;Santa Catarina;SC;Profissional Liberal;05. 41 a 45 anos
+1256;Barra Velha;Santa Catarina;SC;Assalariado;08. 56 a 60 anos
+1257;Blumenau;Santa Catarina;SC;Profissional Liberal;03. 31 a 35 anos
+1258;Brusque ;Santa Catarina;SC;Autonômo;05. 41 a 45 anos
+1259;Barra Velha;Santa Catarina;SC;Assalariado;09. 61 a 65 anos
+1260;Barra Velha;Santa Catarina;SC;Autonômo;01. 18 a 24 anos
+1261;Barra Velha;Santa Catarina;SC;Autonômo;09. 61 a 65 anos
+1262;Joinville;Santa Catarina;SC;Funcionário Público;03. 31 a 35 anos
+1263;Joinville;Santa Catarina;SC;Aposentado;10. Acima de 65 anos
+1264;Brusque ;Santa Catarina;SC;Assalariado;06. 46 a 50 anos
+1265;Joinville;Santa Catarina;SC;Assalariado;03. 31 a 35 anos
+1266;Blumenau;Santa Catarina;SC;Aposentado;10. Acima de 65 anos
+1267;Brusque ;Santa Catarina;SC;Profissional Liberal;08. 56 a 60 anos
+1268;Brusque ;Santa Catarina;SC;Assalariado;07. 51 a 55 anos
+1269;Blumenau;Santa Catarina;SC;Autonômo;05. 41 a 45 anos
+1270;Blumenau;Santa Catarina;SC;Assalariado;03. 31 a 35 anos
+1271;Barra Velha;Santa Catarina;SC;Aposentado;10. Acima de 65 anos
+1272;Brusque ;Santa Catarina;SC;Assalariado;06. 46 a 50 anos
+1273;Joinville;Santa Catarina;SC;Autonômo;07. 51 a 55 anos
+1274;Brusque ;Santa Catarina;SC;Assalariado;03. 31 a 35 anos
+1275;Barra Velha;Santa Catarina;SC;Empresário;04. 36 a 40 anos
+1276;Joinville;Santa Catarina;SC;Funcionário Público;03. 31 a 35 anos
+1277;Brusque ;Santa Catarina;SC;Empresário;01. 18 a 24 anos
+1278;Barra Velha;Santa Catarina;SC;Assalariado;04. 36 a 40 anos
+1279;Blumenau;Santa Catarina;SC;Militar;03. 31 a 35 anos
+1280;Joinville;Santa Catarina;SC;Assalariado;03. 31 a 35 anos
+1281;Joinville;Santa Catarina;SC;Aposentado;10. Acima de 65 anos
+1282;Brusque ;Santa Catarina;SC;Assalariado;03. 31 a 35 anos
+1283;Barra Velha;Santa Catarina;SC;Assalariado;03. 31 a 35 anos
+1284;Blumenau;Santa Catarina;SC;Assalariado;06. 46 a 50 anos
+1285;Barra Velha;Santa Catarina;SC;Militar;07. 51 a 55 anos
+1286;Barra Velha;Santa Catarina;SC;Militar;05. 41 a 45 anos
+1287;Brusque ;Santa Catarina;SC;Militar;08. 56 a 60 anos
+1288;Joinville;Santa Catarina;SC;Assalariado;07. 51 a 55 anos
+1289;Blumenau;Santa Catarina;SC;Militar;07. 51 a 55 anos
+1290;Barra Velha;Santa Catarina;SC;Assalariado;07. 51 a 55 anos
+1291;Barra Velha;Santa Catarina;SC;Autonômo;04. 36 a 40 anos
+1292;Joinville;Santa Catarina;SC;Assalariado;05. 41 a 45 anos
+1293;Barra Velha;Santa Catarina;SC;Militar;01. 18 a 24 anos
+1294;Barra Velha;Santa Catarina;SC;Empresário;04. 36 a 40 anos
+1295;Brusque ;Santa Catarina;SC;Funcionário Público;05. 41 a 45 anos
+1296;Joinville;Santa Catarina;SC;Aposentado;10. Acima de 65 anos
+1297;Brusque ;Santa Catarina;SC;Militar;03. 31 a 35 anos
+1298;Blumenau;Santa Catarina;SC;Militar;03. 31 a 35 anos
+1299;Barra Velha;Santa Catarina;SC;Funcionário Público;07. 51 a 55 anos
+1300;Joinville;Santa Catarina;SC;Militar;02. 26 a 30 anos
+1301;Joinville;Santa Catarina;SC;Profissional Liberal;02. 26 a 30 anos
+1302;Blumenau;Santa Catarina;SC;Empresário;02. 26 a 30 anos
+1303;Blumenau;Santa Catarina;SC;Assalariado;01. 18 a 24 anos
+1304;Barra Velha;Santa Catarina;SC;Assalariado;03. 31 a 35 anos
+1305;Joinville;Santa Catarina;SC;Profissional Liberal;02. 26 a 30 anos
+1306;Barra Velha;Santa Catarina;SC;Autonômo;09. 61 a 65 anos
+1307;Joinville;Santa Catarina;SC;Empresário;07. 51 a 55 anos
+1308;Barra Velha;Santa Catarina;SC;Profissional Liberal;05. 41 a 45 anos
+1309;Blumenau;Santa Catarina;SC;Assalariado;06. 46 a 50 anos
+1310;Brusque ;Santa Catarina;SC;Militar;03. 31 a 35 anos
+1311;Brusque ;Santa Catarina;SC;Empresário;07. 51 a 55 anos
+1312;Brusque ;Santa Catarina;SC;Aposentado;10. Acima de 65 anos
+1313;Barra Velha;Santa Catarina;SC;Funcionário Público;09. 61 a 65 anos
+1314;Blumenau;Santa Catarina;SC;Autonômo;08. 56 a 60 anos
+1315;Brusque ;Santa Catarina;SC;Aposentado;10. Acima de 65 anos
+1316;Brusque ;Santa Catarina;SC;Profissional Liberal;02. 26 a 30 anos
+1317;Barra Velha;Santa Catarina;SC;Funcionário Público;03. 31 a 35 anos
+1318;Barra Velha;Santa Catarina;SC;Militar;04. 36 a 40 anos
+1319;Barra Velha;Santa Catarina;SC;Militar;08. 56 a 60 anos
+1320;Brusque ;Santa Catarina;SC;Assalariado;05. 41 a 45 anos
+1321;Barra Velha;Santa Catarina;SC;Empresário;04. 36 a 40 anos
+1322;Barra Velha;Santa Catarina;SC;Militar;04. 36 a 40 anos
+1323;Blumenau;Santa Catarina;SC;Assalariado;02. 26 a 30 anos
+1324;Brusque ;Santa Catarina;SC;Militar;06. 46 a 50 anos
+1325;Brusque ;Santa Catarina;SC;Assalariado;05. 41 a 45 anos
+1326;Blumenau;Santa Catarina;SC;Empresário;09. 61 a 65 anos
+1327;Brusque ;Santa Catarina;SC;Funcionário Público;09. 61 a 65 anos
+1328;Blumenau;Santa Catarina;SC;Funcionário Público;01. 18 a 24 anos
+1329;Joinville;Santa Catarina;SC;Profissional Liberal;02. 26 a 30 anos
+1330;Joinville;Santa Catarina;SC;Militar;03. 31 a 35 anos
+1331;Brusque ;Santa Catarina;SC;Profissional Liberal;09. 61 a 65 anos
+1332;Barra Velha;Santa Catarina;SC;Aposentado;10. Acima de 65 anos
+1333;Blumenau;Santa Catarina;SC;Assalariado;03. 31 a 35 anos
+1334;Brusque ;Santa Catarina;SC;Assalariado;04. 36 a 40 anos
+1335;Blumenau;Santa Catarina;SC;Assalariado;06. 46 a 50 anos
+1336;Brusque ;Santa Catarina;SC;Aposentado;10. Acima de 65 anos
+1337;Barra Velha;Santa Catarina;SC;Profissional Liberal;06. 46 a 50 anos
+1338;Blumenau;Santa Catarina;SC;Aposentado;10. Acima de 65 anos
+1339;Barra Velha;Santa Catarina;SC;Funcionário Público;03. 31 a 35 anos
+1340;Blumenau;Santa Catarina;SC;Funcionário Público;04. 36 a 40 anos
+1341;Brusque ;Santa Catarina;SC;Aposentado;10. Acima de 65 anos
+1342;Brusque ;Santa Catarina;SC;Militar;04. 36 a 40 anos
+1343;Blumenau;Santa Catarina;SC;Autonômo;04. 36 a 40 anos
+1344;Blumenau;Santa Catarina;SC;Militar;01. 18 a 24 anos
+1345;Joinville;Santa Catarina;SC;Aposentado;10. Acima de 65 anos
+1346;Barra Velha;Santa Catarina;SC;Funcionário Público;02. 26 a 30 anos
+1347;Barra Velha;Santa Catarina;SC;Funcionário Público;05. 41 a 45 anos
+1348;Joinville;Santa Catarina;SC;Funcionário Público;01. 18 a 24 anos
+1349;Blumenau;Santa Catarina;SC;Assalariado;03. 31 a 35 anos
+1350;Barra Velha;Santa Catarina;SC;Autonômo;01. 18 a 24 anos
+1351;Blumenau;Santa Catarina;SC;Assalariado;03. 31 a 35 anos
+1352;Joinville;Santa Catarina;SC;Assalariado;06. 46 a 50 anos
+1353;Barra Velha;Santa Catarina;SC;Militar;03. 31 a 35 anos
+1354;Barra Velha;Santa Catarina;SC;Assalariado;03. 31 a 35 anos
+1355;Brusque ;Santa Catarina;SC;Assalariado;02. 26 a 30 anos
+1356;Brusque ;Santa Catarina;SC;Autonômo;01. 18 a 24 anos
+1357;Joinville;Santa Catarina;SC;Profissional Liberal;07. 51 a 55 anos
+1358;Joinville;Santa Catarina;SC;Profissional Liberal;03. 31 a 35 anos
+1359;Blumenau;Santa Catarina;SC;Assalariado;03. 31 a 35 anos
+1360;Blumenau;Santa Catarina;SC;Aposentado;10. Acima de 65 anos
+1361;Joinville;Santa Catarina;SC;Profissional Liberal;02. 26 a 30 anos
+1362;Brusque ;Santa Catarina;SC;Funcionário Público;06. 46 a 50 anos
+1363;Blumenau;Santa Catarina;SC;Assalariado;04. 36 a 40 anos
+1364;Joinville;Santa Catarina;SC;Autonômo;05. 41 a 45 anos
+1365;Blumenau;Santa Catarina;SC;Empresário;08. 56 a 60 anos
+1366;Brusque ;Santa Catarina;SC;Aposentado;10. Acima de 65 anos
+1367;Blumenau;Santa Catarina;SC;Autonômo;09. 61 a 65 anos
+1368;Brusque ;Santa Catarina;SC;Funcionário Público;02. 26 a 30 anos
+1369;Barra Velha;Santa Catarina;SC;Funcionário Público;08. 56 a 60 anos
+1370;Joinville;Santa Catarina;SC;Assalariado;02. 26 a 30 anos
+1371;Barra Velha;Santa Catarina;SC;Funcionário Público;03. 31 a 35 anos
+1372;Barra Velha;Santa Catarina;SC;Empresário;04. 36 a 40 anos
+1373;Joinville;Santa Catarina;SC;Assalariado;04. 36 a 40 anos
+1374;Joinville;Santa Catarina;SC;Empresário;02. 26 a 30 anos
+1375;Brusque ;Santa Catarina;SC;Empresário;04. 36 a 40 anos
+1376;Blumenau;Santa Catarina;SC;Assalariado;04. 36 a 40 anos
+1377;Brusque ;Santa Catarina;SC;Assalariado;02. 26 a 30 anos
+1378;Barra Velha;Santa Catarina;SC;Militar;02. 26 a 30 anos
+1379;Blumenau;Santa Catarina;SC;Autonômo;02. 26 a 30 anos
+1380;Barra Velha;Santa Catarina;SC;Funcionário Público;02. 26 a 30 anos
+1381;Blumenau;Santa Catarina;SC;Funcionário Público;07. 51 a 55 anos
+1382;Barra Velha;Santa Catarina;SC;Aposentado;10. Acima de 65 anos
+1383;Joinville;Santa Catarina;SC;Empresário;02. 26 a 30 anos
+1384;Brusque ;Santa Catarina;SC;Autonômo;02. 26 a 30 anos
+1385;Barra Velha;Santa Catarina;SC;Aposentado;10. Acima de 65 anos
+1386;Blumenau;Santa Catarina;SC;Militar;04. 36 a 40 anos
+1387;Barra Velha;Santa Catarina;SC;Funcionário Público;09. 61 a 65 anos
+1388;Joinville;Santa Catarina;SC;Autonômo;04. 36 a 40 anos
+1389;Blumenau;Santa Catarina;SC;Assalariado;05. 41 a 45 anos
+1390;Joinville;Santa Catarina;SC;Funcionário Público;09. 61 a 65 anos
+1391;Joinville;Santa Catarina;SC;Profissional Liberal;04. 36 a 40 anos
+1392;Joinville;Santa Catarina;SC;Profissional Liberal;01. 18 a 24 anos
+1393;Joinville;Santa Catarina;SC;Autonômo;01. 18 a 24 anos
+1394;Joinville;Santa Catarina;SC;Empresário;06. 46 a 50 anos
+1395;Barra Velha;Santa Catarina;SC;Assalariado;09. 61 a 65 anos
+1396;Blumenau;Santa Catarina;SC;Militar;04. 36 a 40 anos
+1397;Barra Velha;Santa Catarina;SC;Funcionário Público;03. 31 a 35 anos
+1398;Barra Velha;Santa Catarina;SC;Profissional Liberal;06. 46 a 50 anos
+1399;Joinville;Santa Catarina;SC;Assalariado;02. 26 a 30 anos
+1400;Joinville;Santa Catarina;SC;Funcionário Público;02. 26 a 30 anos
+1401;Dourados;Mato Grosso do Sul;MS;Assalariado;09. 61 a 65 anos
+1402;Dourados;Mato Grosso do Sul;MS;Profissional Liberal;01. 18 a 24 anos
+1403;Campo Grande;Mato Grosso do Sul;MS;Aposentado;10. Acima de 65 anos
+1404;Dourados;Mato Grosso do Sul;MS;Militar;07. 51 a 55 anos
+1405;Campo Grande;Mato Grosso do Sul;MS;Militar;05. 41 a 45 anos
+1406;Dourados;Mato Grosso do Sul;MS;Assalariado;03. 31 a 35 anos
+1407;Campo Grande;Mato Grosso do Sul;MS;Assalariado;02. 26 a 30 anos
+1408;Dourados;Mato Grosso do Sul;MS;Assalariado;08. 56 a 60 anos
+1409;Campo Grande;Mato Grosso do Sul;MS;Assalariado;03. 31 a 35 anos
+1410;Dourados;Mato Grosso do Sul;MS;Assalariado;03. 31 a 35 anos
+1411;Campo Grande;Mato Grosso do Sul;MS;Militar;02. 26 a 30 anos
+1412;Campo Grande;Mato Grosso do Sul;MS;Assalariado;02. 26 a 30 anos
+1413;Dourados;Mato Grosso do Sul;MS;Profissional Liberal;08. 56 a 60 anos
+1414;Campo Grande;Mato Grosso do Sul;MS;Funcionário Público;06. 46 a 50 anos
+1415;Dourados;Mato Grosso do Sul;MS;Empresário;08. 56 a 60 anos
+1416;Dourados;Mato Grosso do Sul;MS;Empresário;04. 36 a 40 anos
+1417;Dourados;Mato Grosso do Sul;MS;Empresário;02. 26 a 30 anos
+1418;Campo Grande;Mato Grosso do Sul;MS;Militar;09. 61 a 65 anos
+1419;Dourados;Mato Grosso do Sul;MS;Profissional Liberal;06. 46 a 50 anos
+1420;Campo Grande;Mato Grosso do Sul;MS;Assalariado;02. 26 a 30 anos
+1421;Campo Grande;Mato Grosso do Sul;MS;Assalariado;02. 26 a 30 anos
+1422;Dourados;Mato Grosso do Sul;MS;Empresário;07. 51 a 55 anos
+1423;Campo Grande;Mato Grosso do Sul;MS;Aposentado;10. Acima de 65 anos
+1424;Campo Grande;Mato Grosso do Sul;MS;Profissional Liberal;02. 26 a 30 anos
+1425;Dourados;Mato Grosso do Sul;MS;Profissional Liberal;05. 41 a 45 anos
+1426;Campo Grande;Mato Grosso do Sul;MS;Aposentado;10. Acima de 65 anos
+1427;Dourados;Mato Grosso do Sul;MS;Assalariado;03. 31 a 35 anos
+1428;Dourados;Mato Grosso do Sul;MS;Profissional Liberal;08. 56 a 60 anos
+1429;Dourados;Mato Grosso do Sul;MS;Empresário;05. 41 a 45 anos
+1430;Dourados;Mato Grosso do Sul;MS;Militar;05. 41 a 45 anos
+1431;Campo Grande;Mato Grosso do Sul;MS;Assalariado;09. 61 a 65 anos
+1432;Campo Grande;Mato Grosso do Sul;MS;Funcionário Público;09. 61 a 65 anos
+1433;Campo Grande;Mato Grosso do Sul;MS;Assalariado;02. 26 a 30 anos
+1434;Dourados;Mato Grosso do Sul;MS;Empresário;06. 46 a 50 anos
+1435;Campo Grande;Mato Grosso do Sul;MS;Assalariado;07. 51 a 55 anos
+1436;Dourados;Mato Grosso do Sul;MS;Assalariado;03. 31 a 35 anos
+1437;Dourados;Mato Grosso do Sul;MS;Profissional Liberal;07. 51 a 55 anos
+1438;Dourados;Mato Grosso do Sul;MS;Profissional Liberal;02. 26 a 30 anos
+1439;Campo Grande;Mato Grosso do Sul;MS;Profissional Liberal;09. 61 a 65 anos
+1440;Campo Grande;Mato Grosso do Sul;MS;Aposentado;10. Acima de 65 anos
+1441;Campo Grande;Mato Grosso do Sul;MS;Empresário;09. 61 a 65 anos
+1442;Campo Grande;Mato Grosso do Sul;MS;Funcionário Público;02. 26 a 30 anos
+1443;Dourados;Mato Grosso do Sul;MS;Militar;09. 61 a 65 anos
+1444;Campo Grande;Mato Grosso do Sul;MS;Funcionário Público;07. 51 a 55 anos
+1445;Campo Grande;Mato Grosso do Sul;MS;Autonômo;01. 18 a 24 anos
+1446;Campo Grande;Mato Grosso do Sul;MS;Assalariado;07. 51 a 55 anos
+1447;Dourados;Mato Grosso do Sul;MS;Empresário;02. 26 a 30 anos
+1448;Dourados;Mato Grosso do Sul;MS;Empresário;08. 56 a 60 anos
+1449;Dourados;Mato Grosso do Sul;MS;Autonômo;09. 61 a 65 anos
+1450;Campo Grande;Mato Grosso do Sul;MS;Aposentado;10. Acima de 65 anos
+1451;Dourados;Mato Grosso do Sul;MS;Autonômo;03. 31 a 35 anos
+1452;Campo Grande;Mato Grosso do Sul;MS;Assalariado;05. 41 a 45 anos
+1453;Dourados;Mato Grosso do Sul;MS;Funcionário Público;08. 56 a 60 anos
+1454;Campo Grande;Mato Grosso do Sul;MS;Militar;01. 18 a 24 anos
+1455;Dourados;Mato Grosso do Sul;MS;Militar;05. 41 a 45 anos
+1456;Dourados;Mato Grosso do Sul;MS;Militar;02. 26 a 30 anos
+1457;Campo Grande;Mato Grosso do Sul;MS;Profissional Liberal;08. 56 a 60 anos
+1458;Dourados;Mato Grosso do Sul;MS;Profissional Liberal;01. 18 a 24 anos
+1459;Dourados;Mato Grosso do Sul;MS;Empresário;04. 36 a 40 anos
+1460;Dourados;Mato Grosso do Sul;MS;Militar;03. 31 a 35 anos
+1461;Dourados;Mato Grosso do Sul;MS;Funcionário Público;09. 61 a 65 anos
+1462;Campo Grande;Mato Grosso do Sul;MS;Autonômo;04. 36 a 40 anos
+1463;Campo Grande;Mato Grosso do Sul;MS;Militar;04. 36 a 40 anos
+1464;Dourados;Mato Grosso do Sul;MS;Militar;02. 26 a 30 anos
+1465;Campo Grande;Mato Grosso do Sul;MS;Funcionário Público;01. 18 a 24 anos
+1466;Dourados;Mato Grosso do Sul;MS;Assalariado;05. 41 a 45 anos
+1467;Campo Grande;Mato Grosso do Sul;MS;Empresário;02. 26 a 30 anos
+1468;Dourados;Mato Grosso do Sul;MS;Profissional Liberal;02. 26 a 30 anos
+1469;Campo Grande;Mato Grosso do Sul;MS;Militar;03. 31 a 35 anos
+1470;Campo Grande;Mato Grosso do Sul;MS;Assalariado;02. 26 a 30 anos
+1471;Dourados;Mato Grosso do Sul;MS;Empresário;08. 56 a 60 anos
+1472;Dourados;Mato Grosso do Sul;MS;Empresário;02. 26 a 30 anos
+1473;Campo Grande;Mato Grosso do Sul;MS;Autonômo;02. 26 a 30 anos
+1474;Dourados;Mato Grosso do Sul;MS;Militar;07. 51 a 55 anos
+1475;Campo Grande;Mato Grosso do Sul;MS;Assalariado;06. 46 a 50 anos
+1476;Dourados;Mato Grosso do Sul;MS;Militar;04. 36 a 40 anos
+1477;Campo Grande;Mato Grosso do Sul;MS;Funcionário Público;01. 18 a 24 anos
+1478;Campo Grande;Mato Grosso do Sul;MS;Assalariado;03. 31 a 35 anos
+1479;Campo Grande;Mato Grosso do Sul;MS;Funcionário Público;02. 26 a 30 anos
+1480;Dourados;Mato Grosso do Sul;MS;Militar;05. 41 a 45 anos
+1481;Campo Grande;Mato Grosso do Sul;MS;Autonômo;02. 26 a 30 anos
+1482;Campo Grande;Mato Grosso do Sul;MS;Funcionário Público;08. 56 a 60 anos
+1483;Campo Grande;Mato Grosso do Sul;MS;Empresário;04. 36 a 40 anos
+1484;Campo Grande;Mato Grosso do Sul;MS;Empresário;01. 18 a 24 anos
+1485;Dourados;Mato Grosso do Sul;MS;Profissional Liberal;08. 56 a 60 anos
+1486;Campo Grande;Mato Grosso do Sul;MS;Empresário;09. 61 a 65 anos
+1487;Campo Grande;Mato Grosso do Sul;MS;Aposentado;10. Acima de 65 anos
+1488;Dourados;Mato Grosso do Sul;MS;Assalariado;06. 46 a 50 anos
+1489;Dourados;Mato Grosso do Sul;MS;Autonômo;02. 26 a 30 anos
+1490;Dourados;Mato Grosso do Sul;MS;Empresário;04. 36 a 40 anos
+1491;Campo Grande;Mato Grosso do Sul;MS;Empresário;05. 41 a 45 anos
+1492;Dourados;Mato Grosso do Sul;MS;Autonômo;01. 18 a 24 anos
+1493;Campo Grande;Mato Grosso do Sul;MS;Funcionário Público;03. 31 a 35 anos
+1494;Campo Grande;Mato Grosso do Sul;MS;Aposentado;10. Acima de 65 anos
+1495;Campo Grande;Mato Grosso do Sul;MS;Aposentado;10. Acima de 65 anos
+1496;Campo Grande;Mato Grosso do Sul;MS;Empresário;02. 26 a 30 anos
+1497;Campo Grande;Mato Grosso do Sul;MS;Autonômo;01. 18 a 24 anos
+1498;Dourados;Mato Grosso do Sul;MS;Empresário;02. 26 a 30 anos
+1499;Campo Grande;Mato Grosso do Sul;MS;Militar;05. 41 a 45 anos
+1500;Campo Grande;Mato Grosso do Sul;MS;Autonômo;02. 26 a 30 anos
+1501;Campo Grande;Mato Grosso do Sul;MS;Assalariado;06. 46 a 50 anos
+1502;Dourados;Mato Grosso do Sul;MS;Assalariado;03. 31 a 35 anos
+1503;Dourados;Mato Grosso do Sul;MS;Assalariado;02. 26 a 30 anos
+1504;Dourados;Mato Grosso do Sul;MS;Empresário;02. 26 a 30 anos
+1505;Campo Grande;Mato Grosso do Sul;MS;Assalariado;03. 31 a 35 anos
+1506;Campo Grande;Mato Grosso do Sul;MS;Militar;04. 36 a 40 anos
+1507;Campo Grande;Mato Grosso do Sul;MS;Assalariado;06. 46 a 50 anos
+1508;Dourados;Mato Grosso do Sul;MS;Funcionário Público;09. 61 a 65 anos
+1509;Dourados;Mato Grosso do Sul;MS;Funcionário Público;08. 56 a 60 anos
+1510;Campo Grande;Mato Grosso do Sul;MS;Empresário;09. 61 a 65 anos
+1511;Campo Grande;Mato Grosso do Sul;MS;Funcionário Público;01. 18 a 24 anos
+1512;Dourados;Mato Grosso do Sul;MS;Assalariado;08. 56 a 60 anos
+1513;Campo Grande;Mato Grosso do Sul;MS;Assalariado;03. 31 a 35 anos
+1514;Dourados;Mato Grosso do Sul;MS;Empresário;09. 61 a 65 anos
+1515;Dourados;Mato Grosso do Sul;MS;Autonômo;02. 26 a 30 anos
+1516;Dourados;Mato Grosso do Sul;MS;Empresário;05. 41 a 45 anos
+1517;Dourados;Mato Grosso do Sul;MS;Empresário;02. 26 a 30 anos
+1518;Dourados;Mato Grosso do Sul;MS;Militar;07. 51 a 55 anos
+1519;Dourados;Mato Grosso do Sul;MS;Profissional Liberal;02. 26 a 30 anos
+1520;Campo Grande;Mato Grosso do Sul;MS;Autonômo;05. 41 a 45 anos
+1521;Campo Grande;Mato Grosso do Sul;MS;Aposentado;10. Acima de 65 anos
+1522;Dourados;Mato Grosso do Sul;MS;Profissional Liberal;01. 18 a 24 anos
+1523;Campo Grande;Mato Grosso do Sul;MS;Assalariado;04. 36 a 40 anos
+1524;Campo Grande;Mato Grosso do Sul;MS;Empresário;02. 26 a 30 anos
+1525;Campo Grande;Mato Grosso do Sul;MS;Militar;05. 41 a 45 anos
+1526;Campo Grande;Mato Grosso do Sul;MS;Autonômo;03. 31 a 35 anos
+1527;Dourados;Mato Grosso do Sul;MS;Militar;01. 18 a 24 anos
+1528;Campo Grande;Mato Grosso do Sul;MS;Profissional Liberal;07. 51 a 55 anos
+1529;Dourados;Mato Grosso do Sul;MS;Militar;03. 31 a 35 anos
+1530;Dourados;Mato Grosso do Sul;MS;Aposentado;10. Acima de 65 anos
+1531;Dourados;Mato Grosso do Sul;MS;Funcionário Público;02. 26 a 30 anos
+1532;Dourados;Mato Grosso do Sul;MS;Autonômo;01. 18 a 24 anos
+1533;Dourados;Mato Grosso do Sul;MS;Funcionário Público;08. 56 a 60 anos
+1534;Campo Grande;Mato Grosso do Sul;MS;Assalariado;03. 31 a 35 anos
+1535;Dourados;Mato Grosso do Sul;MS;Funcionário Público;09. 61 a 65 anos
+1536;Dourados;Mato Grosso do Sul;MS;Empresário;09. 61 a 65 anos
+1537;Dourados;Mato Grosso do Sul;MS;Profissional Liberal;05. 41 a 45 anos
+1538;Dourados;Mato Grosso do Sul;MS;Assalariado;04. 36 a 40 anos
+1539;Dourados;Mato Grosso do Sul;MS;Funcionário Público;03. 31 a 35 anos
+1540;Campo Grande;Mato Grosso do Sul;MS;Assalariado;09. 61 a 65 anos
+1541;Campo Grande;Mato Grosso do Sul;MS;Aposentado;10. Acima de 65 anos
+1542;Dourados;Mato Grosso do Sul;MS;Empresário;02. 26 a 30 anos
+1543;Campo Grande;Mato Grosso do Sul;MS;Assalariado;09. 61 a 65 anos
+1544;Dourados;Mato Grosso do Sul;MS;Assalariado;05. 41 a 45 anos
+1545;Dourados;Mato Grosso do Sul;MS;Assalariado;07. 51 a 55 anos
+1546;Dourados;Mato Grosso do Sul;MS;Assalariado;02. 26 a 30 anos
+1547;Campo Grande;Mato Grosso do Sul;MS;Empresário;01. 18 a 24 anos
+1548;Dourados;Mato Grosso do Sul;MS;Profissional Liberal;01. 18 a 24 anos
+1549;Campo Grande;Mato Grosso do Sul;MS;Autonômo;06. 46 a 50 anos
+1550;Campo Grande;Mato Grosso do Sul;MS;Profissional Liberal;06. 46 a 50 anos
+1551;Campo Grande;Mato Grosso do Sul;MS;Assalariado;05. 41 a 45 anos
+1552;Campo Grande;Mato Grosso do Sul;MS;Aposentado;10. Acima de 65 anos
+1553;Campo Grande;Mato Grosso do Sul;MS;Empresário;04. 36 a 40 anos
+1554;Dourados;Mato Grosso do Sul;MS;Assalariado;08. 56 a 60 anos
+1555;Campo Grande;Mato Grosso do Sul;MS;Funcionário Público;01. 18 a 24 anos
+1556;Dourados;Mato Grosso do Sul;MS;Autonômo;09. 61 a 65 anos
+1557;Dourados;Mato Grosso do Sul;MS;Assalariado;08. 56 a 60 anos
+1558;Dourados;Mato Grosso do Sul;MS;Assalariado;06. 46 a 50 anos
+1559;Dourados;Mato Grosso do Sul;MS;Profissional Liberal;05. 41 a 45 anos
+1560;Campo Grande;Mato Grosso do Sul;MS;Assalariado;08. 56 a 60 anos
+1561;Campo Grande;Mato Grosso do Sul;MS;Profissional Liberal;06. 46 a 50 anos
+1562;Campo Grande;Mato Grosso do Sul;MS;Autonômo;03. 31 a 35 anos
+1563;Campo Grande;Mato Grosso do Sul;MS;Assalariado;09. 61 a 65 anos
+1564;Campo Grande;Mato Grosso do Sul;MS;Empresário;05. 41 a 45 anos
+1565;Campo Grande;Mato Grosso do Sul;MS;Assalariado;04. 36 a 40 anos
+1566;Dourados;Mato Grosso do Sul;MS;Profissional Liberal;06. 46 a 50 anos
+1567;Dourados;Mato Grosso do Sul;MS;Assalariado;03. 31 a 35 anos
+1568;Dourados;Mato Grosso do Sul;MS;Militar;01. 18 a 24 anos
+1569;Dourados;Mato Grosso do Sul;MS;Aposentado;10. Acima de 65 anos
+1570;Campo Grande;Mato Grosso do Sul;MS;Aposentado;10. Acima de 65 anos
+1571;Dourados;Mato Grosso do Sul;MS;Aposentado;10. Acima de 65 anos
+1572;Campo Grande;Mato Grosso do Sul;MS;Autonômo;09. 61 a 65 anos
+1573;Campo Grande;Mato Grosso do Sul;MS;Empresário;08. 56 a 60 anos
+1574;Campo Grande;Mato Grosso do Sul;MS;Assalariado;06. 46 a 50 anos
+1575;Dourados;Mato Grosso do Sul;MS;Militar;06. 46 a 50 anos
+1576;Campo Grande;Mato Grosso do Sul;MS;Assalariado;02. 26 a 30 anos
+1577;Campo Grande;Mato Grosso do Sul;MS;Assalariado;03. 31 a 35 anos
+1578;Dourados;Mato Grosso do Sul;MS;Aposentado;10. Acima de 65 anos
+1579;Campo Grande;Mato Grosso do Sul;MS;Assalariado;04. 36 a 40 anos
+1580;Campo Grande;Mato Grosso do Sul;MS;Autonômo;03. 31 a 35 anos
+1581;Dourados;Mato Grosso do Sul;MS;Empresário;09. 61 a 65 anos
+1582;Dourados;Mato Grosso do Sul;MS;Profissional Liberal;01. 18 a 24 anos
+1583;Dourados;Mato Grosso do Sul;MS;Aposentado;10. Acima de 65 anos
+1584;Campo Grande;Mato Grosso do Sul;MS;Militar;02. 26 a 30 anos
+1585;Dourados;Mato Grosso do Sul;MS;Autonômo;04. 36 a 40 anos
+1586;Campo Grande;Mato Grosso do Sul;MS;Assalariado;04. 36 a 40 anos
+1587;Dourados;Mato Grosso do Sul;MS;Empresário;07. 51 a 55 anos
+1588;Campo Grande;Mato Grosso do Sul;MS;Assalariado;03. 31 a 35 anos
+1589;Dourados;Mato Grosso do Sul;MS;Profissional Liberal;08. 56 a 60 anos
+1590;Campo Grande;Mato Grosso do Sul;MS;Aposentado;10. Acima de 65 anos
+1591;Campo Grande;Mato Grosso do Sul;MS;Funcionário Público;02. 26 a 30 anos
+1592;Dourados;Mato Grosso do Sul;MS;Militar;05. 41 a 45 anos
+1593;Campo Grande;Mato Grosso do Sul;MS;Aposentado;10. Acima de 65 anos
+1594;Dourados;Mato Grosso do Sul;MS;Assalariado;09. 61 a 65 anos
+1595;Campo Grande;Mato Grosso do Sul;MS;Funcionário Público;02. 26 a 30 anos
+1596;Dourados;Mato Grosso do Sul;MS;Assalariado;02. 26 a 30 anos
+1597;Dourados;Mato Grosso do Sul;MS;Assalariado;08. 56 a 60 anos
+1598;Campo Grande;Mato Grosso do Sul;MS;Autonômo;02. 26 a 30 anos
+1599;Campo Grande;Mato Grosso do Sul;MS;Funcionário Público;03. 31 a 35 anos
+1600;Dourados;Mato Grosso do Sul;MS;Assalariado;02. 26 a 30 anos
+1601;Campo Grande;Mato Grosso do Sul;MS;Assalariado;02. 26 a 30 anos
+1602;Campo Grande;Mato Grosso do Sul;MS;Assalariado;03. 31 a 35 anos
+1603;Campo Grande;Mato Grosso do Sul;MS;Autonômo;02. 26 a 30 anos
+1604;Campo Grande;Mato Grosso do Sul;MS;Profissional Liberal;02. 26 a 30 anos
+1605;Campo Grande;Mato Grosso do Sul;MS;Assalariado;04. 36 a 40 anos
+1606;Campo Grande;Mato Grosso do Sul;MS;Assalariado;06. 46 a 50 anos
+1607;Campo Grande;Mato Grosso do Sul;MS;Assalariado;01. 18 a 24 anos
+1608;Campo Grande;Mato Grosso do Sul;MS;Militar;04. 36 a 40 anos
+1609;Campo Grande;Mato Grosso do Sul;MS;Assalariado;03. 31 a 35 anos
+1610;Campo Grande;Mato Grosso do Sul;MS;Profissional Liberal;08. 56 a 60 anos
+1611;Campo Grande;Mato Grosso do Sul;MS;Funcionário Público;01. 18 a 24 anos
+1612;Campo Grande;Mato Grosso do Sul;MS;Assalariado;03. 31 a 35 anos
+1613;Campo Grande;Mato Grosso do Sul;MS;Assalariado;05. 41 a 45 anos
+1614;Campo Grande;Mato Grosso do Sul;MS;Assalariado;03. 31 a 35 anos
+1615;Campo Grande;Mato Grosso do Sul;MS;Assalariado;06. 46 a 50 anos
+1616;Campo Grande;Mato Grosso do Sul;MS;Autonômo;02. 26 a 30 anos
+1617;Campo Grande;Mato Grosso do Sul;MS;Militar;07. 51 a 55 anos
+1618;Campo Grande;Mato Grosso do Sul;MS;Empresário;01. 18 a 24 anos
+1619;Campo Grande;Mato Grosso do Sul;MS;Assalariado;08. 56 a 60 anos
+1620;Campo Grande;Mato Grosso do Sul;MS;Aposentado;10. Acima de 65 anos
+1621;Campo Grande;Mato Grosso do Sul;MS;Autonômo;01. 18 a 24 anos
+1622;Campo Grande;Mato Grosso do Sul;MS;Funcionário Público;07. 51 a 55 anos
+1623;Campo Grande;Mato Grosso do Sul;MS;Profissional Liberal;06. 46 a 50 anos
+1624;Campo Grande;Mato Grosso do Sul;MS;Autonômo;04. 36 a 40 anos
+1625;Campo Grande;Mato Grosso do Sul;MS;Funcionário Público;06. 46 a 50 anos
+1626;Campo Grande;Mato Grosso do Sul;MS;Assalariado;03. 31 a 35 anos
+1627;Campo Grande;Mato Grosso do Sul;MS;Assalariado;03. 31 a 35 anos
+1628;Campo Grande;Mato Grosso do Sul;MS;Profissional Liberal;02. 26 a 30 anos
+1629;Campo Grande;Mato Grosso do Sul;MS;Empresário;08. 56 a 60 anos
+1630;Campo Grande;Mato Grosso do Sul;MS;Funcionário Público;07. 51 a 55 anos
+1631;Campo Grande;Mato Grosso do Sul;MS;Profissional Liberal;04. 36 a 40 anos
+1632;Campo Grande;Mato Grosso do Sul;MS;Empresário;03. 31 a 35 anos
+1633;Campo Grande;Mato Grosso do Sul;MS;Assalariado;03. 31 a 35 anos
+1634;Campo Grande;Mato Grosso do Sul;MS;Assalariado;06. 46 a 50 anos
+1635;Campo Grande;Mato Grosso do Sul;MS;Assalariado;04. 36 a 40 anos
+1636;Campo Grande;Mato Grosso do Sul;MS;Autonômo;02. 26 a 30 anos
+1637;Campo Grande;Mato Grosso do Sul;MS;Empresário;08. 56 a 60 anos
+1638;Campo Grande;Mato Grosso do Sul;MS;Assalariado;03. 31 a 35 anos
+1639;Campo Grande;Mato Grosso do Sul;MS;Profissional Liberal;04. 36 a 40 anos
+1640;Campo Grande;Mato Grosso do Sul;MS;Autonômo;03. 31 a 35 anos
+1641;Campo Grande;Mato Grosso do Sul;MS;Militar;04. 36 a 40 anos
+1642;Campo Grande;Mato Grosso do Sul;MS;Funcionário Público;06. 46 a 50 anos
+1643;Campo Grande;Mato Grosso do Sul;MS;Militar;07. 51 a 55 anos
+1644;Campo Grande;Mato Grosso do Sul;MS;Assalariado;06. 46 a 50 anos
+1645;Campo Grande;Mato Grosso do Sul;MS;Empresário;05. 41 a 45 anos
+1646;Campo Grande;Mato Grosso do Sul;MS;Assalariado;04. 36 a 40 anos
+1647;Campo Grande;Mato Grosso do Sul;MS;Aposentado;10. Acima de 65 anos
+1648;Campo Grande;Mato Grosso do Sul;MS;Assalariado;07. 51 a 55 anos
+1649;Campo Grande;Mato Grosso do Sul;MS;Autonômo;01. 18 a 24 anos
+1650;Campo Grande;Mato Grosso do Sul;MS;Militar;05. 41 a 45 anos

@@ -1,0 +1,5 @@
+﻿id_inadimplencia;fg_pg_em_dia;fg_atraso_30dias;fg_atraso_60dias;fg_atraso_90dias
+1;0;1;0;0
+2;0;1;1;0
+3;0;1;1;1
+4;1;0;0;0
